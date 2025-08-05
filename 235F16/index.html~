@@ -1,0 +1,126 @@
+<html>
+<body bgcolor=white text=black>
+
+
+
+<!-- this is a comment -->
+
+
+<h2> Math 235.6 : Introduction to Linear Algebra</h2>
+<h3> Fall 2016 </h3>
+
+<p>
+This is the webpage for section 6 of Math 235, and only contains the material specific to this section.
+</p>
+<p>
+The course-wide webpage is <a href="http://www.math.umass.edu/~hacking/235F16common/">here</a>.
+</p>
+<br>
+
+<b>Instructor</b>: Paul Hacking
+<br>
+<b>Email</b>: <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<b>Office</b>: LGRT 1235H
+<br>
+<b>Office Hours</b>: Tuesdays 2:00PM--3:00PM and Thursdays 3:00PM--4:00PM, in my office LGRT 1235H.
+<br>
+<b>Classes</b>: TuTh 11:30PM--12:45PM in Goessmann Lab, Addition Room 51.
+<br>
+<br>
+<br>
+<b>Homeworks</b>
+<p>Homeworks will be assigned through MyMathLab. I will provide a course ID number so that you can purchase access (including an electronic copy of the textbook)
+for $75.
+</p>
+<p>
+Log in to MyMathLab <a href="http://www.mymathlab.com">here</a>.
+</p>
+<p> 
+Homeworks are due on Tuesdays and Thursdays (first homework due 9/13/16).  
+</p>
+<br>
+<b>Exams</b>
+<p>
+There will be two midterm exams and a final exam. Past exams are available <a href="http://people.math.umass.edu/~markman/math235_fall15_html/practice-exams.html">here</a>. 
+</p>
+<p>
+You are allowed one 8.5&quot; x 11&quot; sheet of notes (both sides).
+Calculators and the textbook are <em>not</em> allowed on the exams.
+You should bring your student ID (UCard) to each exam.
+</p>
+<b>First midterm exam</b>
+<p>
+The first midterm will be held on Tuesday 10/18/16, 7:00PM--9:00PM, in HASA0126.
+</p>
+<p>
+The syllabus for the first midterm is the following sections of the textbook: 1.1, 1.2, 1.3, 1.4, 1.5, 1.7, 1.8, 1.9, 2.1, 2.2, 2.3.
+</p>
+<p>
+Please work through the practice exam <a href="practice_midterm1.pdf">here</a>. Solutions to the practice exam are <a href="235_practice_MT1_solns.pdf">here</a>.
+</p>
+<p>
+There will be a review session for the first midterm on Monday 10/17/16, 7:00PM--8:30PM, in LGRT 121.
+</p>
+<b>Second midterm exam</b>
+<p>
+The second midterm will be held on Tuesday 11/15/16, 7:00PM--9:00PM, in HASA0126.
+</p>
+<p>
+The syllabus for the second midterm is the following sections of the textbook: 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 4.4, 4.5.
+</p>
+<p>
+Please work through the review questions <a href="midterm2_review.pdf">here</a>.
+Solutions to the review questions are <a href="235_midterm2_review_solutions.pdf">here</a>.
+</p>
+<p>
+There will be a review session for the second midterm on Monday 11/14/16, 7:00PM--8:30PM, in LGRT 121. 
+</p>
+
+<b>Final Exam</b>
+<p>
+The final exam will be held on Tuesday 12/20/16, 10:30AM-12:30PM, in Boyden gym.
+</p>
+<p>
+The syllabus for the final exam is the following sections of the textbook: 4.5, 4.6, 5.1, 5.2, 5.3, 5.5, 6.1, 6.2.
+</p>
+<p>
+Please work through the review questions <a href="final_review.pdf">here</a>.
+</p>
+<!--<p>
+Solutions to the review questions are <a href="235_final_review_solutions.pdf">here</a>.
+</p>-->
+<p>
+There will be a review session for the final exam on Monday 12/19/16, 7:00PM--8:30PM, in LGRT 121. I will go over the review questions and any other questions.
+</p>
+<br>
+<br>
+
+<b>Useful links</b>
+<br>
+<br>
+Linear algebra computations can be done on the web in the free mathematical software "sage":
+<br>
+<a href="http://www.sagemath.org/">Main sage website</a>.
+<br>
+<a href="https://cloud.sagemath.com/">Use sage online</a> (you will need to create a username and password).
+<br>
+<a href="http://wiki.sagemath.org/quickref?action=AttachFile&do=get&target=quickref-linalg.pdf">Quick reference guide to linear algebra in sage</a>.
+<br>
+<p>
+Videos of the MIT Linear algebra course lectures are available <a href="http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">here</a>.
+</p>
+<p>
+Google uses linear algebra to rank search results on the web: <a href="http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf">Expository article</a>, <a href="http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf">Original article</a> (see Section 2.1).
+</p>
+<br>
+<br>
+<br><hr><br>
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<!--<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>-->
+
+</body>
+</html>
+
+
