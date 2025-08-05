@@ -1,0 +1,82 @@
+<HTML>
+
+
+<h2> Class Log </h2>
+
+Wednesday 10/28/15: More examples of critical points of u and v, for f=u+iv complex differentiable. The monkey saddle. Proof of Cauchy's integral formula.
+<br>
+<br>
+Monday 10/26/15: Cauchy's integral formula. Special case: Gauss' mean value theorem. Application: if f=u+iv is complex differentiable, then all critical points of u and v are saddle points (cannot be local max or local min). Examples.
+<br>
+<br>
+Friday 10/23/15: The integral of 1/(z-a) around a simple closed curve oriented counterclockwise equals 2&pi;i if a is inside C and 0 if a is outside C. Application: computing real integrals of rational functions.
+<br>
+<br>
+Wednesday 10/21/15: A complex differentiable function on a domain with no holes has an antiderivative (constructed via contour integration).
+<br>
+<br>
+Monday 10/19/15: Constructing antiderivatives via contour integration. Cauchy's theorem (aka the Cauchy-Goursat theorem).
+<br>
+<br>
+Friday 10/16/15: Bounding contour integrals in terms of the length of the curve C and the maximum of |f(z)| for z in C.  The triangle inequality. Part 2 of the complex fundamental theorem of calculus (preliminary discussion).
+<br>
+<br>
+Wednesday 10/14/15: Changing the orientation of the contour reverses the sign of the integral. Computing contour integrals using antiderivaties (part 1 of complex fundamental theorem of calculus).
+<br>
+<br>
+Tuesday 10/13/15: Contour integration. Definition and examples. Integral is independent of choice of parametrization of the curve.
+<br>
+<br>
+Friday 10/9/15: Computing complex derivatives: Linearity, product rule, quotient rule, chain rule, derivatives of basic functions (powers of z, exponential function, sine and cosine, logarithm).
+<br>
+<br>
+Wednesday 10/7/15: The Cauchy--Riemann equations. Conformal property (complex differentiable functions preserve angles between curves at points where the derivative is nonzero).
+<br>
+<br>
+Monday 10/5/15: Complex differentiability.
+<br>
+<br>
+Friday 10/2/15: Review of differentiability of real functions of two variables.
+<br>
+<br>
+Wednesday 9/30/15: The function f(z)=1/z corresponds to rotation of the sphere through pi radians about the x-axis under stereographic projection
+<br>
+<br>
+Monday 9/28/15: Complex rational functions. The function f(z)=1/z. Stereographic projection. 
+<br>
+<br>
+Friday 9/25/15: Geometric interpretation of the complex logarithm. Defining (multivalued) complex powers w<sup>z</sup> using the logarithm. 
+<br>
+<br>
+Wednesday 9/23/15: The complex logarithm (principal value Log z and multivalued version log z).
+<br>
+<br>
+Monday 9/21/15: The complex sine and cosine functions.
+<br>
+<br>
+Friday 9/18/15: The complex exponential function.
+<br>
+<br>
+Wednesday 9/16/15: Review of the definition of the (real) exponential function 
+f(x)=e<sup>x</sup> and its properties.
+<br>
+<br>
+Monday 9/14/15: Complex mappings. Examples: Polynomials. Linear functions f(z)=az+b (where a and b are complex numbers). Power functions f(z)=z<sup>n</sup> (where n is a positive integer).
+<br>
+<br>
+Friday 9/11/15: The fundamental theorem of algebra. Motivation from linear algebra. Finding the complex solutions of polynomial equations. Roots of unity.
+<br>
+<br>
+Wednesday 9/9/15: Complex numbers. Arithmetic operations. Geometric interpretation. Conjugation. The fundamental theorem of algebra. 
+
+
+
+<!--
+Thursday 4/30/15: Review.
+<br>
+<br>
+-->
+
+
+
+</HTML>

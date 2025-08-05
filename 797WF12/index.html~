@@ -1,0 +1,125 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Math 797W: Algebraic geometry</title>
+</head>
+
+
+
+<font size=+2> Math 797W: Algebraic geometry</font><br>
+<font size=+2> Fall 2012</font>
+
+<!-- <p align="right"><em> Pins and needles bend and break, my fair lady...</em><br>-->
+
+<br>
+<br>
+
+
+<b>Instructor</b>: Paul Hacking, LGRT 1235H, <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<br>
+<b>Meetings</b>
+<br>
+<br>
+Classes: Mondays, Wednesdays, and Fridays, 11:15AM - 12:05PM in LGRT 1334.
+<br>
+Office hours: Mondays 3:00PM-4:00PM and Tuesdays 4:00PM-5:00PM, in my office LGRT 1235H.
+<br>
+<br>
+<b>Prerequisites</b>
+<br>
+<br>
+I will try to keep these to a minimum.  To some extent I will tailor the course to the participants.<br>
+<i>Required</i>: Basic commutative algebra and complex analysis (as covered
+in 611-612, 621), notion of smooth manifold, differential forms (as
+covered in 703,704).<br>
+<i>Useful, but not required</i>: Basic algebraic topology (fundamental group,
+homology, cohomology).
+<br>
+<br>
+<b>Syllabus</b>
+<br>
+<br>
+<a href="http://www.math.umass.edu/~hacking/797W/classlog">Class Log</a>.
+<br>
+<br>
+<b>Homework</b>
+<br>
+<br>
+Homeworks will be due every 1-2 weeks at the beginning of Wednesday's class. (First homework due 9/19/12.)
+<br>
+<br>
+<a href="http://www.math.umass.edu/~hacking/797WF12/homework">Homework sets</a>.
+<br>
+<br>
+<b>Overview of course</b>
+<br>
+<br>
+Algebraic geometry is the study of geometric spaces defined by polynomial equations. It is a central topic in mathematics with strong ties to differential and symplectic geometry, topology, number theory, and representation theory. It is also a very important source of examples throughout mathematics. The aim of this course will be to learn algebraic geometry through the study of key examples. Topics will include homogeneous spaces (projective space, Grassmannian), curves (elliptic, hyperelliptic, plane curves, genus),and surfaces (rational, ruled, K3, Enriques, blowup of a point). 
+<br>
+<br>
+<b>Useful references</b>
+<br>
+<br>
+<i>Introductory texts</i>
+<br>
+<br>
+The red book of varieties and schemes, D. Mumford, <a href="http://www.springerlink.com/content/978-3-540-63293-1">SpringerLink</a>. Chapter I of this text is the best reference for the first part of the course. It's available for free from Springer for UMass students.
+<br>
+Undergraduate algebraic geometry, M. Reid, <a href="http://books.google.com/books/about/Undergraduate_Algebraic_Geometry.html?id=KvKdSkPwwmMC">googlebooks</a>.
+Elementary introduction to algebraic geometry. Very accessible. 
+<br>
+Basic algebraic geometry 1, I. Shafarevich, <a href="http://books.google.com/books?id=SpAnQgAACAAJ&dq=inauthor:%22Igor%CA%B9+Rostislavovich+Shafarevich%22&source=gbs_navlinks_s">googlebooks</a>. Fairly extensive introduction with few prerequisites.
+<br>
+Algebraic geometry: a first course, J. Harris, <a href="http://books.google.com/books/about/Algebraic_Geometry.html?id=_XxZdhbtf1sC">googlebooks</a>. Recent book with lots of examples.
+<br>
+<br>
+<i>More advanced texts</i>
+<br>
+<br>
+Algebraic geometry, R. Hartshorne, <a href="http://books.google.com/books/about/Algebraic_Geometry.html?id=3rtX9t-nnvwC">googlebooks</a>. Standard text covering modern techniques in algebraic geometry. Rather intimidating for the beginner.
+<br>
+Principles of algebraic geometry, P. Griffiths and J. Harris, <a href="http://books.google.com/books/about/Principles_of_Algebraic_Geometry.html?id=arF9QgAACAAJ">googlebooks</a>. Describes the analytic approach to algebraic geometry. Full of instructive examples. 
+<br>
+Hodge theory and complex algebraic geometry I, C. Voisin, <a href="http://books.google.com/books/about/Hodge_Theory_and_Complex_Algebraic_Geome.html?id=dAHEXVcmDWYC">googlebooks</a>. Thorough development of the analytic approach (more careful than Griffiths-Harris, but fewer examples).
+<br>
+<br>
+<i>Commutative algebra</i>
+<br>
+<br>
+Undergraduate commutative algebra, M. Reid, <a href="http://books.google.com/books/about/Undergraduate_Commutative_Algebra.html?id=mUL1us0mRrAC">googlebooks</a>. An introductory text.
+<br>
+Introduction to commutative algebra, M. Atiyah and I. MacDonald, <a href="http://books.google.com/books/about/Introduction_To_Commutative_Algebra.html?id=HOASFid4x18C">googlebooks</a>. Classic text (very concise).
+<br>
+Commutative ring theory, H. Matsumura, <a href="http://books.google.com/books/about/Commutative_Ring_Theory.html?id=yJwNrABugDEC">googlebooks</a>. Useful reference.
+<br>
+Commutative algebra with a view toward algebraic geometry, D. Eisenbud, <a href="http://books.google.com/books/about/Commutative_Algebra.html?id=Fm_yPgZBucMC">googlebooks</a>. Comprehensive text including the geometric point of view.
+<br>
+<br>
+ 
+
+
+
+
+
+<br><hr><br>
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<!--<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>-->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>
+
+
+<!--Algebraic curves, W. Fulton, <a href="www.math.lsa.umich.edu/~wfulton/CurveBook.pdf">pdf</a>. Introduction to algebraic curves from algebraic point of view.
+<br>
+Introduction to algebraic curves, P. Griffiths <a href="http://books.google.com/books/about/Commutative_Algebra.html?id=Fm_yPgZBucMC">googlebooks</a>. Introduction toalgebraic curves from analytic point of view (Riemann surfaces).
+<br>
+Algebraic curves and Riemann surfaces, Rick Miranda, <a href="http://books.google.com/books/about/Algebraic_Curves_and_Riemann_Surfaces.html?id=qjg6GOQaHNEC">googlebooks</a>.
+<br>-->

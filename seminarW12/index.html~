@@ -1,0 +1,143 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Algebraic Geometry / Commutative Algebra</title>
+</head>
+
+
+<font size=+2> Reading seminar in algebraic geometry</font><br>
+<font size=+2> Fall 2011. Curves, K3 surfaces, and Fano 3-folds.</font>
+
+<!-- <p align="right"><em> Pins and needles bend and break, my fair lady...</em><br>-->
+
+<br>
+<br>
+
+<p>
+This semester the reading seminar will study the description of Fano
+3-folds as linear sections of homogeneous spaces obtained by Mukai.
+This is related to Mukai's work on vector bundles over K3 surfaces and
+explicit models for curves of low genus. More recently Kuznetsov has
+used Mukai's results to study the derived category of Fano 3-folds.
+</p>
+<p>
+The seminar will consist of introductory talks by faculty followed by
+talks by graduate students. Applications to the derived category will
+be discussed towards the end after some of the necessary tools have
+been developed in Jenia Tevelev's class (<a href="http://www.math.umass.edu/~tevelev/797HM.html">course webpage</a>). 
+We will attempt to make the seminar
+accessible to everyone.
+</p>
+<p>
+The seminar will meet on Fridays at 2:45PM-3:45PM in LGRT 1634. We will
+also have a few meetings on Thursdays to accommodate speakers with
+teaching commitments on Fridays.
+</p>
+<br><hr><br>
+
+
+<b>Schedule</b>
+<br>
+<br>
+Jan 27. Organizational meeting, 3:15PM, LGRT 1634.
+<br>
+Feb 3. Paul Hacking, UMass. <em>Curves, K3 surfaces, and Fano 3-folds</em>. 2:45PM, LGRT 1634.
+<a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading Seminar in Algebraic Geometry&date=2012-02-03&time=14:45:00&loc=LGRT 1634">Abstract</a>. 
+Lecture notes by Anna Kazanova <a href="feb3.pdf">pdf</a>.
+<br>
+Feb 10. Eyal Markman, UMass. <em>A few basic facts about K3 surfaces</em>. 2:45PM, LGRT 1634.
+<br>
+Feb 16. Jeremy Pecharich, Mt Holyoke. <em>An introduction to noncommuative algebraic geometry 'in the small'</em>. (Thursday pre-talk for VGS.) 2:45PM, LGRT 1634.
+<br>
+Feb 17. Stephen Coughlan, UMass. <em>Fano 3-folds after Fano and Iskovskikh</em>. 2:45PM, LGRT 1634.
+<br>
+Feb 24. Alexei Oblomkov, UMass. <em>Fano 3-folds after Fano and Iskovskikh II</em>. 2:45PM, LGRT 1634.
+<br>
+Mar 2. Alexei Oblomkov, UMass. <em>Fano 3-folds after Fano and Iskovskikh III</em>. 2:45PM, LGRT 1634.
+<br>
+Mar 9. Jenia Tevelev, UMass. <em>Mukai Models I, G2 and K3</em>. 2:45PM, LGRT 1634. 
+<br> 
+Mar 16. Jenia Tevelev, UMass. <em>Mukai Models II</em>. 2:45PM, LGRT 1634. 
+<br> 
+Mar 23. Spring Break.
+<br>
+Mar 30. No meeting due to <a href="http://www.agneshome.org/amherst-2012">AGNES</a>.
+<br>
+Apr 6. Bradley Willocks, UMass. <em>Which K3 surfaces are anticanonical divisors on Fano threefolds? (after Beauville)</em>. 2:45PM, LGRT 1634.
+<br>
+Apr 13. Anna Kazanova, UMass. <em>On the moduli space of bundles on K3 surfaces</em>. 2:45PM, LGRT 1634.
+<br>
+Apr 26. Rina Anno, UMass. <em>Derived categories of Fano 3-folds</em>. 3:00PM, LGRT 1634.
+<br>
+Apr 27. Julie Rana, UMass. <em>Which Fuchsian singularities are smoothable? (after Nikulin, Pinkham, Dolgachev, and Looijenga)</em>. 2:45PM, LGRT 1322.
+<br>
+
+<br><hr><br>
+
+<b>References</b>
+<br>
+<br>
+S. Mukai, <em>Curves, K3 surfaces and Fano 3-folds of genus <= 10</em>, in Algebraic geometry and commutative algebra, Vol. I, 357-377, Kinokuniya, Tokyo, 1988.
+<a href="mukaiCurveK3Fano.pdf">pdf</a>
+<br>
+<br>
+S. Mukai, <em>On the moduli space of bundles on K3 surfaces. I</em>, in Vector bundles on algebraic varieties (Bombay, 1984), 341-413,
+Tata Inst. Fund. Res. Stud. Math., 11, Tata Inst. Fund. Res., Bombay, 1987. <a href="mukaibundleK3.pdf">pdf</a>
+<br>
+<br>
+A. Kuznetsov, <em>Derived categories of Fano 3-folds</em>, Proc. Steklov Inst. Math. 264 (2009), no. 1, 110-122 and preprint arXiv:0809.0225v1 [math.AG]  <a href="http://arxiv.org/abs/0809.0225">arXiv</a>.
+<br>
+<br>
+V. Iskovskih, <em>Fano 3-folds, I and II</em>, part I, Math. USSR-Izv. 11 (1977), no. 3, 485--527 (1978) <a href="iskovskih1.pdf">pdf</a>; part II, ibid. 12 (1978), no. 3, 469--506 (1979) <a href="iskovskih2.pdf">pdf</a>.
+<br>
+<br>
+<hr>
+<br>
+<br>
+Links to the seminar from previous years.<br><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF11">Topics in algebraic geometry, Fall 2011</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarW11">Surfaces of general type, Spring 2011</a><br>
+
+<a href="http://www.math.umass.edu/~kazanova/seminar.html">Algebraic surfaces, Fall 2010</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarW10">Stability conditions on derived categories and wall crossing, Spring 2010</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF09">Mirror symmetry and tropical geometry, Fall 2009</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/deform.html">Deformation theory,
+Fall 2008</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/green1.html">Green's Conjectures,
+Spring 2008</a><br>
+
+<a href="http://www.math.umass.edu/%7Emehrotra/ag.php">Bridgeland Stability,
+Fall 2007</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/mmp.html">Minimal Model Program,
+Spring 2007</a><br>
+
+<a href="http://www.math.umass.edu/~isoprou/caps.html">Commutative 
+Algebra and Polyhedra Seminar, Spring 2006</a><br>
+
+<a href="http://www.math.umass.edu/~isoprou/gaps.html">Geometry and
+Algebra of Polyhedra Seminar, Fall 2005</a><br>
+
+<a href="http://www.mtholyoke.edu/~jsidman/commalg.html">Commutative Algebra 
+Seminar, 2004-2005</a><br>
+
+
+
+
+<br><hr><br>
+
+The page is maintained by <a href="http://www.math.umass.edu/~hacking"> Paul Hacking </a>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>

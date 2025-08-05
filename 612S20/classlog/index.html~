@@ -1,0 +1,135 @@
+<HTML>
+
+
+<h2> Class Log </h2>
+The lecture notes were provided by Ellen Burton. References are to the textbook "The four pillars of geometry" by J. Stillwell.
+<br>
+<br>
+Wednesday 12/11/19. Euclidean geometry proof that inversion in the unit circle sends circles through the origin to lines. Hyperbolic lines give shortest paths. Hyperbolic reflection in a hyperbolic line is given by Euclidean reflection in the case of a vertical line and inversion in the case of a semicircle. The area of a hyperbolic triangle ABC is given by a+b+c= pi - Area(ABC). In particular a+b+c < pi and Area(ABC) < pi. Lecture notes <a href="lecture_notes/12_11.pdf">pdf</a>.
+<br> 
+<br>
+Monday 12/9/19. Inversion in the unit circle defines a hyperbolic isometry in the upper half plane model, which is the hyperbolic reflection in the hyperbolic line given by the unit semicircle. Lecture notes <a href="lecture_notes/12_9.pdf">pdf</a>.
+<br>
+<br>
+Friday 12/6/19. The parallel axiom does not hold in the hyperbolic plane. Vertical lines give shortest paths in upper half plane model. Examples of hyperbolic isometries: (1) horizontal translation, (2) reflection in a vertical line. Lecture notes <a href="lecture_notes/12_6.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 12/4/19. The hyperbolic plane. The upper half plane model H. The hyperbolic length of curves and hyperbolic distance in H. Hyperbolic lines are semicircles with center on the x-axis and vertical half lines in H. There is a unique hyperbolic line through any two points P and Q in H. The shortest path between two points in H is given by the segment of the hyperbolic line connecting them (proof later). Lecture notes <a href="lecture_notes/12_4.pdf">pdf</a>.
+<br>
+<br>
+Monday 12/2/19. Snow day.
+<br>
+<br>
+Friday 11/22/19. Algebraic/calculus proof that stereographic projection preserves angles. Notion of distance on the plane corresponding to distance on the sphere under stereographic projection. Stereographic projection sends spherical circles to circles and lines in the plane. Lecture notes <a href="lecture_notes/11_22.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 11/20/19. End of proof that stereographic projection preserves angles. Lecture notes <a href="lecture_notes/11_20.pdf">pdf</a>.
+<br>
+<br>
+Monday 11/18/19. Proof that spherical lines give shortest paths. Beginning of proof that stereographic projection preserves angles. Lecture notes <a href="lecture_notes/11_18.pdf">pdf</a>. 
+<br>
+<br>
+Friday 11/15/19. Stereographic projection and the Gall--Peters projection. Lecture notes <a href="lecture_notes/11_15.pdf">pdf</a>. 
+<br>
+<br>
+Wednesday 11/13/19. Review of spherical polar coordinates. Proof of the spherical cosine rule. The spherical triangle inequality. Lecture notes <a href="lecture_notes/11_13.pdf">pdf</a>. 
+<br>
+<br>
+Monday 11/11/19. No class (Veteran's day).
+<br>
+<br>
+Friday 11/8/19. Proof of the angle sum formula for a spherical triangle. The spherical cosine rule. Lecture notes <a href="lecture_notes/11_8.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 11/6/19. Angles between spherical lines. Spherical triangles. The angle sum of a spherical triangle equals pi plus the area of the triangle. Lecture notes <a href="lecture_notes/11_6.pdf">pdf</a>.
+<br>
+<br>
+Monday 11/4/19. Spherical geometry. We write S<sup>2</sup> for the sphere with center the origin and radius 1 in R<sup>3</sup>, with equation x<sup>2</sup>+y<sup>2</sup>+z<sup>2</sup>=1. A spherical line or great circle is the intersection of the sphere S<sup>2</sup> with a plane passing through the origin. There is a spherical line passing through any two points P and Q on the sphere, and it is unique unless P and Q are antipodal. The shortest path on the sphere between two points P and Q is the shorter segment of the spherical line connecting the two points (Proof later). Formula for the spherical distance from P to Q (the length of the shortest path) using the dot product. 
+Lecture notes <a href="lecture_notes/11_4.pdf">pdf</a>.
+<br>
+<br>
+Friday 11/1/19. Every isometry of the plane is either the identity, a translation, a rotation, a reflection, or a glide reflection. (Proof using the 3 reflections theorem.) Lecture notes <a href="lecture_notes/11_1.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/30/19. Two triangles are congruent if and only if there is an isometry sending the first triangle to the second. Every isometry is the composition of at most 3 reflections. Lecture notes <a href="lecture_notes/10_30.pdf">pdf</a>. 
+<br>
+<br>
+Monday 10/28/19. GPS theorem: Given 3 points in the plane, not lying on a line, any point in the plane is determined by its distances from the 3 given points. Lecture notes <a href="lecture_notes/10_28.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/25/19. Compositions of isometries: The composition of a rotation and a translation is a rotation through the same angle about another point. The composition of two rotations about a point P is a rotation about P through the sum of the angles. The composition of two rotations about different points P and Q is a rotation about another point R through the sum of the angles (or a translation). Lecture notes <a href="lecture_notes/10_25.pdf">pdf</a>. Please note: I made an error in the lecture which is reproduced in the lecture notes: a rotation through angle t about a point P is given by the composition of reflections in lines L and M intersecting at P at angle t/2 (not t).
+
+<br>
+<br>
+Wednesday 10/23/19. Determining the geometric description of an isometry from its algebraic formula: Examples. Compositions of isometries: A composition of two translations is another translation. A composition of two reflections in parallel lines is a translation by twice the vector from the first line to the second (perpendicular to the lines). A composition of two reflections in intersecting lines is a rotation about the intersection point through twice the angle from the first line to the second. Lecture notes <a href="lecture_notes/10_23.pdf">pdf</a>. 
+<br>
+<br>
+Monday 10/21/19. General algebraic formula for isometries: T(x)=Ax+b where A is a 2x2 orthogonal matrix and b is a vector. Direct and opposite isometries. Determining the type of an isometry using the fixed locus. Lecture notes <a href="lecture_notes/10_21.pdf">pdf</a>. 
+<br>
+<br>
+Friday 10/18/19. Another derivation of algebraic formula for a reflection using "conjugation". Similarly, algebraic formula for rotation about a point other than the origin. Given an algebraic formula for a rotation, procedure to determine center and angle of rotation. Lecture notes <a href="lecture_notes/10_18.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/16/19. Isometries send lines to lines. An isometry T fixing the origin is a linear transformation. Application: algebraic formula for reflection in line L passing through the origin at a specified angle. Lecture notes <a href="lecture_notes/10_16.pdf">pdf</a>.
+<br>
+<br>
+Tuesday 10/15/19. Isometries of the plane. Examples: Translation by a vector. Reflection in a line. Rotation about a point through some angle. Glide reflection (reflection in a line followed by translation by a vector in the direction of the line). Lecture notes <a href="lecture_notes/10_15.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/11/19. Equation of perpendicular bisector of line segment. Algebraic interpretation of ruler and compass constructions. A length is constructible by ruler and compass if and only if it is obtained from 1 by applying the arithmetic operations +,-,x, /, and square roots. Lecture notes <a href="lecture_notes/10_11.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/9/19. If |A'B'|/|AB|=|B'C'|/|BC|=|C'A'|/|CA| then triangles A'B'C and ABC are similar (corresponding angles are equal). Equation of a line. Lecture notes <a href="lecture_notes/10_9.pdf">pdf</a>.
+
+<br>
+<br>
+Monday 10/7/19. Coordinates. Distance formula. Equation of a circle. Slope of a line. Two lines are parallel or equal if and only if they have the same slope. Lecture notes <a href="lecture_notes/10_7.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/4/19. The cosine rule. Sine and cosine for obtuse angles. Center of mass of a triangle. Lecture notes <a href="lecture_notes/10_4.pdf">pdf</a>. Handout: Geometry vs. Algebra, by Sir Michael Atiyah <a href="http://www.math.umass.edu/~hacking/461F19/handouts/atiyah.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/2/19. Statement of Gauss' theorem on constructibility of regular polygons using ruler and compass. Trigonometric functions. The sine rule. Lecture notes <a href="lecture_notes/10_2.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/30/19. Ruler and compass construction of the regular pentagon. Lecture notes <a href="lecture_notes/9_30.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/27/19. The angle subtended by a chord at the center equals twice the angle at the circumference. Angles subtended by a chord at the circumference (on the same side of the chord) are equal. The angle in a semicircle equals pi/2. Ruler and compass construction of square roots. Lecture notes <a href="lecture_notes/9_27.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/25/19. The converse of Thales' theorem. It is impossible to trisect an angle by ruler and compass in general: sketch of proof. Lecture notes <a href="lecture_notes/9_25.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/23/19. Constructible lengths: Multiplication and division. Dividing a line segment into n parts of equal lengths using ruler and compass. It is not possible in general to divide an angle into n equal angles using ruler and compass (for example n=3 is impossible in general). Lecture notes <a href="lecture_notes/9_23.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/20/19. Thales' theorem. We say triangles ABC and A'B'C' are similar if the corresponding angles are equal. Theorem: The ratios of corresponding sides of similar triangles are equal. Lecture notes <a href="lecture_notes/9_20.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/18/19. Areas (axiomatic approach following Euclid). Area of a parallelogram. Area of a triangle. Pythagoras' theorem. Lecture notes <a href="lecture_notes/9_18.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/16/19. Angle sum of a triangle. Parallelograms (quadrilaterals with opposite sides parallel): (a) opposite sides have equal lengths (b) diagonals bisect each other. Rhombus (quadrilateral with sides of equal lengths) (a) opposite sides are parallel (b) diagonals meet at right angles. Lecture notes <a href="lecture_notes/9_16.pdf">pdf</a>. Worksheet <a href="worksheets/ws1.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/13/19. Euclid's parallel axiom. Playfair's version of the parallel axiom: Given a line L and a point P not lying on L, there is a unique line M passing through P and parallel to L. Lines L and M are parallel if and only if they make interior angles a and b such that a+b=pi on one side of a transversal line N. Lecture notes <a href="lecture_notes/9_13.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/11/19. Perpendicular bisector. Isosceles triangle theorem. Construction of a line through a given point perpendicular to a given line. 
+Lecture notes <a href="lecture_notes/9_11.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/9/19. Congruence of triangles. Congruence criteria (SAS,ASA,SSS). Constructions: Bisect an angle; bisect a line segment. Lecture notes <a href="lecture_notes/9_9.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/6/19. Euclidean geometry. Platonic solids. Ruler and compass constructions. Motivating problems: Constructible lengths and regular polygons. Lecture notes <a href="lecture_notes/9_6.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/4/19. Overview of course: 1. Euclidean (plane) geometry. 2. Coordinate geometry; symmetries. 3. Spherical geometry. 4. Hyperbolic geometry. Lecture notes <a href="lecture_notes/9_4.pdf">pdf</a>.
+<br>
+<br>
+<br>
+<br>
+</HTML>
+ 

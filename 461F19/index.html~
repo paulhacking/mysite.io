@@ -1,0 +1,160 @@
+<html>
+<body bgcolor=white text=black>
+
+<font size=+2> Math 461: Affine and projective geometry</font><br>
+<font size=+2> Fall 2019</font>
+<br>
+<br>
+<b>Instructor</b>: Paul Hacking, LGRT 1235H, <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<br>
+<b>Meetings</b> 
+<br>
+<br>
+Classes: Mondays, Wednesdays, and Fridays, 10:10AM--11:00AM, in LGRT 177.
+<br>
+Office hours: Mondays and Tuesdays, 4:00PM--5:00PM, in LGRT 1235H.
+<br>
+<br>
+<b>Prerequisites</b>: Math 235 and Math 300.
+<br>
+<br>
+<b>Course description</b>
+<p>
+We will explore several approaches to geometry: constructions with straight-edge and compass, the axiomatic approach of Euclid and Hilbert, the coordinate geometry of Descartes, and Klein's approach using symmetries and transformations. This will open the doors to many non-Euclidean flavors of geometry.
+</p>
+<p>
+<a href="classlog/index.html">Class log</a>
+</p>
+
+
+<b>Textbook</b>
+<p>
+The course text is <i>The four pillars of geometry</i> by J. Stillwell. <a href="http://link.springer.com/book/10.1007%2F0-387-29052-4">SpringerLink</a>.
+</p>
+
+
+<b>Homework</b>
+<p>
+There will be weekly homework, due at the beginning of Wednesday's class (first homework due 9/18/19). No late homework will be accepted; instead your lowest two homework scores will be dropped.
+</p>
+<a href="homework/hw1.pdf">HW1</a>. Due Wednesday 9/18/19. <a href="homework/hw1solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw2.pdf">HW2</a>. Due Wednesday 9/25/19. <a href="homework/hw2solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw3.pdf">HW3</a>. Due Wednesday 10/2/19. <a href="homework/hw3solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw4.pdf">HW4</a>. Due Wednesday 10/9/19. <a href="homework/hw4solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw5.pdf">HW5</a>. Due Friday 11/1/19. <a href="homework/hw5solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw6.pdf">HW6</a>. Due Friday 11/8/19. <a href="homework/hw6solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw7.pdf">HW7</a>. Due Wednesday 11/20/19. <a href="homework/hw7solutions.pdf">Solutions</a>.
+<br>
+<br>
+<a href="homework/hw8.pdf">HW8</a>. Due Wednesday 12/4/19. <a href="homework/hw8solutions.pdf">Solutions</a>.
+<br>
+<br>
+<!--
+<a href="homework/index.html">Homework sets</a>
+<br>
+<br>
+-->
+
+<b>Exams</b>
+<p>
+There will be one midterm exam and one final exam.
+</p>
+<p>
+You are allowed one sheet of notes (letter-size, both sides) on the exams. Calculators, additional notes, and the textbook are <em>not</em> allowed on the exams. You should bring your student ID (UCard) to each exam.
+</p>
+<b>Midterm</b>
+<p>
+The midterm exam is Wednesday 10/16/19, 7:00PM--9:00PM, in LGRC A301. 
+<!--There is a review session for the midterm on Tuesday 3/10/15, 7:00PM--8:30PM, in LGRT 177.-->
+</p>
+
+<p>
+Midterm review problems <a href="homework/midterm_review.pdf">pdf</a>. Solutions <a href="homework/midterm_review_solutions.pdf">pdf</a>.
+</p>
+<p>
+Midterm exam <a href="homework/midterm.pdf">pdf</a>. Solutions <a href="homework/midterm_solutions.pdf">pdf</a>.
+</p>
+
+<b>Final</b>
+<p>
+The final exam is Thursday 12/19/19, 8:00AM--10:00AM, in Goessmann Lab Addition Room 51.
+<br>
+<br>
+Final review problems <a href="homework/final_review.pdf">pdf</a>. Solutions <a href="homework/final_review_solutions.pdf">pdf</a>. 
+<br>
+<br>
+<!--
+There will be an (optional) review session on Thursday 12/13/18, 3:00PM--4:00PM, in LGRT 141.
+-->
+</p>
+
+<b>Grading</b>
+<p>
+Your course grade will be computed as follows: Homeworks and quizzes 35%, Midterm exam 30%, Final exam 35%.
+</p>
+
+<b>Useful links</b>
+<br>
+<br>
+I also taught this class in Fall 2018. The 2018 course webpage is <a href="http://people.math.umass.edu/~hacking/461F18/index.html">here</a>. It includes a complete class log with lecture notes and past homeworks and exams. (I have removed access to homework and exam solutions however.) The Fall 2019 course will be similar (but I do plan to make some changes).
+<br>
+<br>
+Euclid: the game <a href="https://kasperpeulen.github.io/">here</a>. (Ruler and compass construction game.)
+<br>
+<br>
+Euclid's elements. Interactive web-based version:  <a href="https://mathcs.clarku.edu/~djoyce/java/elements/elements.html">html</a>. Original text: <a href="http://farside.ph.utexas.edu/Books/Euclid/Elements.pdf">pdf</a>.
+<br>
+<br>
+Instructions for constructing a paper model of the hyperbolic plane: <br>
+Print out <a href="hyperbolic_paper.pdf">this page</a> and make several photocopies. Cut out the collar regions and build the surface by successively attaching the inside of one collar to the outside of another and also attaching the collars end to end. (I used small pieces of sticky tape to do this; if you put the tape all on one side you'll be able to draw with a pencil on the other side.) When you have made a reasonably large surface you will find that the edge of the surface is wavy (so that the edge is longer than if the surface was flat). Now put the surface on a table, take a ruler and press one edge of the ruler down on the surface so that the surface touches the table along the edge of the ruler, and draw a line on the surface with a pencil. This line is a hyperbolic line in the hyperbolic plane. If you draw 3 lines forming a hyperbolic triangle you will be able to see that the sum a+b+c of the angles of the triangle is less than pi. In fact pi-(a+b+c) is proportional to the area of the triangle (and in the mathematical study of the hyperbolic plane we choose units so that we have equality here).  
+<br>
+<br>
+Geometry versus Algebra. An excerpt from Mathematics in the 20th century, by <a href="https://en.wikipedia.org/wiki/Michael_Atiyah">Sir Michael Atiyah</a>. <a href="handouts/atiyah.pdf">pdf</a>. Full article <a href="handouts/atiyah_full.pdf">pdf</a>.
+<br>
+<br>
+<b>Links for prospective teachers and others interested in teaching</b>
+<br>
+<i>(This course is required for the teaching track of the math major at UMass. One of the aims of this course is to help prospective teachers prepare to teach high school geometry.)</i>
+<br>
+<br>
+Common core state standards for high school geometry <a href="http://www.corestandards.org/Math/Content/HSG/introduction/">here</a>. 
+<br>
+<br>
+Everyone should get an A, by <a href="https://en.wikipedia.org/wiki/David_J._C._MacKay">David MacKay</a>. <a href="handouts/mackay_everyone_should_get_an_A.pdf">pdf</a>. <a href="http://www.inference.org.uk/mackay/abstracts/exams.html">source</a>.
+<br>
+<br>
+Interactive teaching ideas, by <a href="https://en.wikipedia.org/wiki/David_J._C._MacKay">David MacKay</a>. <a href="handouts/mackay_teaching.pdf">pdf</a>. <a href="http://www.inference.org.uk/aimslesotho/">source</a>.
+<br>
+<br>
+Mathematical education, by <a href="https://en.wikipedia.org/wiki/William_Thurston">William Thurston</a>. <a href="handouts/thurston.pdf">pdf</a>.
+<br>
+<br>
+What mathematics serves the majority of 21st century American students?, by Heather Dallas and <a href="https://en.wikipedia.org/wiki/David_Mumford">David Mumford</a>. <a href="handouts/dallas_mumford.pdf">pdf</a>. <a href="http://www.dam.brown.edu/people/mumford/beyond/education.html">source</a>.
+<br>
+<br>
+
+<br><hr><br>
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<!--<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>-->
+
+
+
+
+</body>
+</html>
+
+

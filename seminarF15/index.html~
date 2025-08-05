@@ -1,0 +1,175 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Algebraic Geometry / Commutative Algebra</title>
+</head>
+
+
+<font size=+2> Reading seminar in algebraic geometry</font><br>
+<font size=+2> Fall 2015. Fano varieties.</font>
+
+<br>
+<br>
+<!--
+<p>
+This semester the reading seminar will study....
+</p>
+<p>
+The seminar will consist of introductory talks by faculty followed by
+talks by graduate students. 
+We will attempt to make the seminar
+accessible to everyone.
+</p>
+-->
+<p>
+The seminar will meet on Monday afternoons, 4:00--5:00PM in LGRT 1322. 
+</p>
+<br><hr><br>
+
+<b>Schedule</b>
+<br>
+<br>
+9/11. Organizational meeting, 4:30PM, LGRT 1634. 
+<br>
+<br>
+9/21. Paul Hacking. <em>What is a Fano variety?</em> 
+<br>
+<br>
+9/28. Jenia Tevelev. <em>Fano varieties of Mori dreams.</em> 
+<br>
+<br>
+10/5. Jenia Tevelev. <em>Fano varieties of Mori dreams, II.</em> 
+<br>
+<br>
+10/12. No seminar (Columbus day).
+<br>
+<br>
+10/19. Feifei Xie. <em> Blowups and birational geometry of surfaces.</em> 
+<br>
+<br>
+10/26. Tassos Vogiannou. <em> Spherical tropicalization.</em> 
+<br>
+<br>
+11/2. Sebastian Torres. <em>The 27 lines on a cubic surface.</em> 
+<br>
+<br>
+11/9. Arie Stern-Gonzalez. <em>Del Pezzo surfaces.</em> 
+<br>
+<br>
+11/16. No seminar.
+<br>
+<br>
+11/23. David Cox (Amherst College). <em>Toric Fano varieties.</em> 
+<br>
+<br>
+11/30. No seminar.
+<br>
+<br>
+12/7. Huy Le. <em>Special cubic 4-folds.</em>
+<br>
+<br>
+
+
+<br><hr><br>
+
+<b>References</b>
+<br>
+<br>
+P. Griffiths and J. Harris, <em>Principles of algebraic geometry</em>, Wiley 2010. <a href="https://books.google.com/books?id=Sny48qKdW40C">googlebooks</a>.
+<br>
+<br>
+M. Reid, <em>Undergraduate algebraic geometry</em>, C.U.P. 1988. <a href="https://books.google.com/books/about/Undergraduate_Algebraic_Geometry.html?id=KvKdSkPwwmMC">googlebooks</a>.
+<br>
+<br>
+I. Dolgachev, <em>Classical algebraic geometry</em>. <a href="http://www.math.lsa.umich.edu/~idolga/lecturenotes.html">Lecture notes</a>.
+<br>
+<br>
+J. Koll&aacute;r and S. Mori, <em>Birational geometry of algebraic varieties</em>, C.U.P 1998. <a href="https://books.google.com/books/about/Birational_Geometry_of_Algebraic_Varieti.html?id=YrysxvPbBLwC">googlebooks</a>.
+<br>
+<br>
+S. Mori, <em>Projective manifolds with ample tangent bundles</em>, Ann. of Math. (2) 110 (1979), no. 3, 593--606. <a href="http://www.jstor.org/stable/1971241?origin=crossref&seq=1#page_scan_tab_contents">JSTOR</a>.
+<br>
+<br>
+D. Cox, <em>What is a toric variety?</em>, in Topics in algebraic geometry and geometric modeling, 
+Contemp. Math. 334, A.M.S., 2003, 203--223. <a href="tutorial.pdf">pdf</a>.
+<br>
+<br>
+D. Cox, <em>Mirror symmetry and polar duality of polytopes</em>, Symmetry 7 (2015), 1633--1645. <a href="mirrorsymmetry.pdf">pdf</a>.
+<br>
+<br>
+H. Clemens and P. Griffiths, <em>The intermediate Jacobian of the cubic threefold</em>, Ann. of Math. (2) 95 (1972), 281--356. <a href="http://www.jstor.org/stable/1970801?origin=crossref&seq=1#page_scan_tab_contents">JSTOR</a>.
+<br>
+<br>
+B. Hassett, <em>Special cubic 4-folds</em>, Harvard PhD thesis, 1996. <a href="http://www.math.brown.edu/~bhassett/papers/cubics/cubiclong.pdf">pdf</a>.
+<br>
+<br> 
+
+<br><hr><br>
+
+
+Links to the seminar from previous semesters.<br><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarS15/">The Hitchin system, character varieties, and related topics, Spring 2015</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF14/">Holomorphic symplectic varieties and Hyperkahler manifolds, Fall 2014</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarS14/">Syzygies, Spring 2014</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF13/">Toric varieties, Fall 2013</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarS13/">Derived categories in algebraic geometry, Spring 2013</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF12">Deformation theory, Fall 2012</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarW12">Curves, K3 surfaces, and Fano 3-folds, Spring 2012</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF11">Topics in algebraic geometry, Fall 2011</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarW11">Surfaces of general type, Spring 2011</a><br>
+
+Algebraic surfaces, Fall 2010.<br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarW10">Stability conditions on derived categories and wall crossing, Spring 2010</a><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF09">Mirror symmetry and tropical geometry, Fall 2009</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/deform.html">Deformation theory,
+Fall 2008</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/green1.html">Green's Conjectures,
+Spring 2008</a><br>
+
+Bridgeland Stability, Fall 2007.<br>
+
+<a href="http://www.math.umass.edu/~tevelev/mmp.html">Minimal Model Program,
+Spring 2007</a><br>
+
+Commutative Algebra and Polyhedra Seminar, Spring 2006.<br>
+
+Geometry and Algebra of Polyhedra Seminar, Fall 2005.<br>
+
+<a href="http://www.mtholyoke.edu/~jsidman/commalg.html">Commutative Algebra 
+Seminar, 2004-2005</a><br>
+
+
+
+
+<br><hr><br>
+
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>
+
+12/7 Nikolay Buskin. <em>Cubic 3-folds.</em> 
+<br>
+<br>
+

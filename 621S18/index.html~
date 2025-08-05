@@ -1,0 +1,94 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Math 621: Complex analysis</title>
+</head>
+
+
+
+<font size=+2> Math 621: Complex analysis</font><br>
+<font size=+2> Spring 2018</font>
+
+<!-- <p align="right"><em> Pins and needles bend and break, my fair lady...</em><br>-->
+
+<br>
+<br>
+
+
+<b>Instructor</b>: Paul Hacking, LGRT 1235H, <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<br>
+<b>Meetings</b>
+<p>
+Classes: Mondays, Wednesdays, and Fridays, 9:05AM--9:55AM in LGRT 1322.
+</p>
+<p>
+Office hours: Mondays 2:00PM--3:00PM and Tuesdays 2:00PM--3:00PM, in my office LGRT 1235H.
+</p>
+<b>Course text</b>: <em>Complex analysis</em>, by E. Stein and R. Shakarchi, Princeton 2003. <a href="http://books.google.com/books/about/Complex_analysis.html?id=0ECHh9tjPUAC" >googlebooks</a>. 
+<br>
+<br>
+<b>Other useful references</b>: <em>Complex analysis</em> by L. Ahlfors. <a href="http://books.google.com/books/about/Complex_analysis.html?id=2MRuus-5GGoC">googlebooks</a>.
+<br>
+<br>
+<b>Prerequisites</b>: Advanced Calculus. Students are expected to have a working knowledge of complex numbers and functions at the level of Math 421 for example.
+<br>
+<br>
+<b>Syllabus</b>:
+<p>
+We will cover Chapters 1, 2, 3, and 8 of Stein and Shakarchi, and other topics TBD.
+</p>
+<a href="classlog/index.html">Class Log</a>.
+<br>
+<br>
+<b>Homework</b>
+<p>
+Homeworks will be due every 2 weeks at the beginning of Wednesday's class. (First homework due 2/7/18.)
+</p>
+<a href="homework/index.html">Homework sets</a>.
+<br>
+<br>
+
+
+<b>Exams</b>
+<p>
+There will be one midterm exam and one final exam.
+</p>
+<p>
+The Midterm will be Wednesday 3/7/18, 7:00PM--8:30PM, in LGRT 1322. The syllabus for the midterm is the following sections of Stein and Shakarchi: Chapter 1, Sections 1,2,3; Chapter 2, Sections 1,2,4; Chapter 3, Sections 1,2,3. Please try the review problems <a href="homework/midterm_review.pdf">here</a>. Solutions <a href="homework/midterm_review_solutions.pdf">pdf</a>.
+</p>
+<p>
+The final exam will be Tuesday 5/8/18, 8:00AM--10:00AM, in LGRT 1322.
+</p>
+<p>
+This course is also assessed via the complex analysis basic qualifying exam. <a href="http://www.math.umass.edu/sites/www.math.umass.edu/files/file-attachments/axiom_exam_2015-12-18.pdf">General information</a>. <a href="http://www.math.umass.edu/sites/www.math.umass.edu/files/file-attachments/axiom_basic_2015-12-18.pdf">Syllabus</a>.
+</p>
+
+<b>Grading</b>: Your course grade will be computed as follows: Homework 30%, Midterm 30%, Final 40%.
+<br>
+<br>
+
+<b>Overview of course</b>
+<p>
+We will cover the basic theory of functions of one complex variable, at a pace that will allow for the inclusion of some non-elementary topics at the end. Basic Theory: Holomorphic functions, conformal mappings, Cauchy's Theorem and consequences, Taylor and Laurent series, singularities, residues, elliptic functions, other topics as time permits.
+</p>
+<p>
+See also the syllabus for the complex analysis qualifying exam <a href="http://www.math.umass.edu/sites/www.math.umass.edu/files/file-attachments/axiom_basic_2015-12-18.pdf">here</a>.
+</p>
+
+
+
+
+<br><hr><br>
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<!--<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>-->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>

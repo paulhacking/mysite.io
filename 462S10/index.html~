@@ -1,0 +1,123 @@
+<html>
+<body bgcolor=white text=black>
+
+
+
+<!-- this is a comment -->
+
+
+<h2> Math 462 : Geometry II</h2>
+<h3> Spring 2010 </h3>
+
+
+<b>Instructor</b>: Paul Hacking
+<br>
+<b>Email</b>: <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<b>Office</b>: LGRT 1235H
+<br>
+<b>Office Hours</b>: Wednesdays and Thursdays, 4:00PM--5:00PM, in my office LGRT 1235H.
+<br>
+<b>Classes</b>: MWF 11:15AM-12:05PM in LGRT 121.
+<br> 
+LGRT = Lederle Graduate Research Tower 
+<a href="http://www.umass.edu/visitorsctr/downloads/campusmap.pdf">map</a>, <a href="http://www.umass.edu/umext/campus/lederle.htm">photo</a>
+<br>
+<br>
+
+
+<b>Course description</b>
+<p>
+This course is a continuation of Math 461: Geometry I. We study euclidean and spherical geometry, with particular emphasis on the group of symmetries in each case. 
+</p>
+<p>
+<a href="http://www.math.umass.edu/~hacking/462S10/classlog">Class log</a>
+</p>
+<br>
+
+<b>Textbook</b>
+<p>
+The course text is <i>Geometry and Topology</i> by Miles Reid and Balazs Szendroi. <a href="http://books.google.com/books?id=SO1oNBjt5hMC&dq=szendroi+reid&source=gbs_navlinks_s">googlebooks</a>.
+</p>
+<p>
+We will also use the text from Math 461, <i>Modern Geometries</i>, 2nd ed., by Michael Henle. <a href="http://books.google.com/books?id=FGXGQgAACAAJ&dq=henle+geometries&cd=2">googlebooks</a>
+</p>
+<p>
+It is important to read the textbook as well as attending the lectures -- there is not enough time in class to cover all the material.
+</p>
+<br>
+
+<b>Homework</b>
+<p>
+There will be weekly homework, due at the beginning of Friday's class (first homework due 2/5/10).
+</p>
+<p>
+The homework and quizzes make up 35% of your course grade.
+</p>
+
+<a href="http://www.math.umass.edu/~hacking/462S10/homework">Homework sets</a>
+<br>
+<br>
+
+<b>Exams</b>
+<p>
+There will be one midterm exam and one final exam. 
+</p>
+<p>
+The midterm exam will be held on Wednesday 3/10/10 at 7PM in LGRT 0113.
+There will be a review session on Tuesday 3/9/10 at 7PM in LGRT 121. Midterm review questions are 
+<a href="http://www.math.umass.edu/~hacking/462S10/homework/MTrev.pdf">here</a>. 
+</p>
+<p>
+The final exam will be held on Tuesday 5/11/10 at 10:30AM in LGRT 321. 
+There will be a review session on Monday 5/10/10 at 7PM in LGRT 121. Final review questions are 
+<a href="http://www.math.umass.edu/~hacking/462S10/homework/Finalrev.pdf">here</a>.
+</p>
+<p>
+Calculators and the textbook are <em>not</em> allowed on exams and quizzes. You are allowed one sheet of notes (8.5x11, both sides).
+</p>
+
+<p>
+The exams make up 65% of your course grade -- 30% for the midterm and 35% for the final.
+</p>
+
+<b>Syllabus</b>
+<br>
+<br>
+Numbers refer to sections of the course text Geometry and Topology by Reid and Szendroi.
+<br>
+<br>
+1 Euclidean geometry: Metric (distance function), classification of motions (symmetries). Sample theorems of plane geometry.
+<br>
+<br>
+2 Composition of maps: Examples. Reflections generate all Euclidean motions.
+<br>
+<br>
+3 Spherical geometry: Metric, triangles, and classification of motions. Comparison of spherical and Euclidean geometry.
+<br>
+<br>
+Polyhedra: Examples. The regular polyhedra: classification and description in coordinates. Duality of polyhedra. 
+Euler's formula V-E+F=2.
+<br>
+<br>
+Symmetry groups: The dihedral group of symmetries of a regular n-sided polygon. 
+The symmetric group S<sub>n</sub> of permutations of n objects. Cycle notation for permutations. 
+Generation of S<sub>n</sub> by transpositions, the sign of a permutation, 
+the alternating group A<sub>n</sub> of even permutations. The symmetry groups of the regular polyhedra: 
+explicit geometric description and algebraic description via permutation groups. 
+Finite groups of rotations in R<sup>3</sup> : classification and examples.
+<br>
+<br>
+Quaternions and compositions of rotations in R<sup>3</sup>. The geometry of the group of rotations in R<sup>3</sup>.
+<br>
+<br>
+<br>
+
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>
+
+</body>
+</html>
+
+

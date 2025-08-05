@@ -1,0 +1,102 @@
+<HTML>
+
+
+<h2> Class Log </h2>
+Lecture notes were taken by Gabrielle Koch. References are to the textbook "The four pillars of geometry" by J. Stillwell.
+<br>
+<br>
+Wednesday 11/14/18. Classification of isometries of R<sup>3</sup> fixing the origin (or equivalently isometries of the sphere S<sup>2</sup>): identity, reflection, rotation, or rotary reflection. GPS theorem: A point P in S<sup>2</sup> is uniquely determined by its distance from 3 points A,B,C not lying on a spherical line. (This uses a Lemma: the perpendicular bisector of a spherical line segment PQ is the locus of points that are equidistant from P and Q). Corollary: A spherical isometry T is determined by T(A),T(B),T(C) for 3 points A,B,C not lying on a spherical line. Theorem: (3 reflections theorem) A spherical isometry is a composite of at most 3 reflections. The classification follows based on the number of reflections ---  0: identity, 1: reflection, 2: rotation (more precisely, the axis of rotation is the intersection of the two planes of reflection and the angle of rotation is twice the dihedral angle between the planes, measured from the first plane to the second), 3: rotary reflection (proof to be completed on Friday). Lecture notes <a href="lecture_notes/L11_14.pdf">pdf</a>.
+<br>
+<br>
+Monday 11/12/18. No class (Veteran's day).
+<br>
+<br>
+Friday 11/9/18. Isometries of R<sup>3</sup> fixing the origin: given an algebraic formula T(x)=Ax for T (where A is a 3x3 matrix), we determine a geometric description. First, compute the fixed locus of T: it is either (1) R<sup>3</sup> (2) a plane through the origin (3) a line through the origin or (4) the origin. In case (1) T is the identity. In case (2) T is reflection in the plane. In case (3) T is rotation about the line through angle t determined by 2 cos t + 1 = trace(A). In case (4) T is a rotary reflection: a reflection in a plane through the origin followed by a rotation about the line through the origin perpendicular to the plane. To find the axis of rotation solve T(x)=-x. The angle of rotation t is determined by 2 cos t -1 = trace(A). The plane of reflection is the plane through the origin perpendicular to the axis of rotation. Note that the trace of a matrix M is the sum of its diagonal entries, and trace(PMP<sup>-1</sup>)=trace(M) for an invertible matrix P (this was used to determine the angles of rotation above). Lecture notes <a href="lecture_notes/L11_9.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 11/7/18. Algebraic formulas for isometries of R<sup>3</sup>: Rotations (continued). Lecture notes <a href="lecture_notes/L11_7.pdf">pdf</a>.
+<br>
+<br>
+Monday 11/5/18. Algebraic formulas for isometries of R<sup>3</sup>: Reflections and rotations.  Lecture notes <a href="lecture_notes/L11_5.pdf">pdf</a>.
+<br>
+<br>
+Friday 11/2/18. The spherical sine rule (continued). Spherical isometries. An isometry of R<sup>3</sup> fixing the origin induces a isometry of the sphere. Examples of isometries of the sphere: reflection in a plane through the origin, rotation about a line through the origin, rotary reflection (reflection in a plane throught the origin followed by a rotation about the line through the origin perpendicular to the plane). Every isometry of the sphere is either the identity, a reflection, a rotation, or a rotary reflection (proof later). Lecture notes <a href="lecture_notes/L11_2.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/31/18. The shortest path on the sphere connecting two points P and Q is the shorter arc of the spherical line through P and Q. The spherical sine rule. Lecture notes <a href="lecture_notes/L10_31.pdf">pdf</a>.
+<br>
+<br>
+Monday 10/29/18. The area of a spherical triangle is strictly less that 2 pi, and can be arbitrarily close to 2 pi. The spherical triangle inequality.  Lecture notes <a href="lecture_notes/L10_29.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/26/18. Spherical cosine rule. Lecture notes <a href="lecture_notes/L10_26.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/24/18. Proof of angle sum formula for spherical triangle. Review for midterm exam.  Lecture notes <a href="lecture_notes/L10_24.pdf">pdf</a>.
+<br>
+<br>
+Monday 10/22/18. Spherical geometry. Computing the spherical line through two points using the cross product. Computing the angle between two spherical lines. The angle sum of a spherical triangle ABC equals pi plus the area of the triangle. Lecture notes <a href="lecture_notes/L10_22.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/19/18. Spherical geometry. A spherical line is by definition the intersection of the sphere with a plane through its center (also called a great circle). The shortest path between two points on the sphere is given by the shorter arc of the spherical line through the two points (proof later). The angle between two spherical lines meeting at a point is by definition the angle between the tangent lines to the spherical lines at that point, equivalently, the dihedral angle between the corresponding planes, or the angle between the normal vectors to the planes. Lecture notes <a href="lecture_notes/L10_19.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/17/18. The three reflections theorem: Any isometry of the plane is a composition of at most three reflections. Classification of isometries of the plane (the identity, translations, rotations, reflections, and glide reflections). Lecture notes <a href="lecture_notes/L10_17.pdf">pdf</a>.
+<br>
+<br>
+Monday 10/15/18. Two triangles are congruent iff there is an isometry sending one to the other (and moreover the isometry is uniquely determined). Lecture notes <a href="lecture_notes/L10_15.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/12/18. Composition of two rotations. GPS theorem: Given 3 points A,B, and C in the plane which are not collinear, a point P in the plane is uniquely determined by its distances from A,B, and C. Corollary: An isometry T is uniquely determined by the images T(A), T(B), and T(C) of 3 non-collinear points A,B, and C. Lecture notes <a href="lecture_notes/L10_12.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/10/18. Compositions of isometries. The composition of two reflections in parallel lines is a translation. The composition of two reflections in intersecting lines is a rotation about the intersection point of the lines. The composition of a rotation and a translation is a rotation through the same angle about a different point. Lecture notes <a href="lecture_notes/L10_10.pdf">pdf</a>.
+<br>
+<br>
+Tuesday 10/9/18. Algebraic formulas for rotations and reflections. Lecture notes <a href="lecture_notes/L10_9.pdf">pdf</a>.
+<br>
+<br>
+Friday 10/5/18. 3.6. Isometries of the plane. Examples: Translation, Rotation, Reflection, Glide reflection, Identity. Theorem: Every isometry is one of these types. Lecture notes <a href="lecture_notes/L10_5.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 10/3/18. 3.4. Algebra of ruler and compass constructions. A length is constructible iff it can be obtained from 1 by addition, subtraction, multiplication, division, and square roots. Lecture notes <a href="lecture_notes/L10_3.pdf">pdf</a>.
+<br>
+<br>
+Monday 10/1/18. 3.1, 3.2, 3.3. Coordinates: Distance. Equation of circle. Equation of line. Slope. Lines are parallel iff slopes are equal. Equation of perpendicular bisector. Lecture notes <a href="lecture_notes/L10_1.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/28/18. Center of mass and Orthocenter of a triangle. Lecture notes <a href="lecture_notes/L9_28.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/26/18. 1.6. Gauss' theorem on constructibility of regular polygons. Lecture notes <a href="lecture_notes/L9_26.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/24/18. 2.8. A length is constructible <=> it can be obtained from 1 by addition, subtraction, multiplication, division, and square roots. (We've already proved "<="; we will prove "=>" later using coordinates.) Construction of the regular pentagon. For a regular pentagon of side length 1, the diagonals have length (1+&radic;5)/2, the "golden ratio". Lecture notes <a href="lecture_notes/L9_24.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/21/18. 2.8. Sine, cosine, and tangent. Sine rule. Cosine rule. Construction of square roots with ruler and compass. Lecture notes <a href="lecture_notes/L9_21.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/19/18. 1.4, 2.7. Parallel Pappus' and Desargues' theorems. Angles in a circle. Lecture notes <a href="lecture_notes/L9_19.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/17/18. 1.5,1.4,1.3. Similar triangles. Multiplication and division of lengths via ruler and compass. Subdivision of an interval into n equal parts. Impossibility of subdivision of an angle into n equal parts for some values of n (e.g. n=3). Converse of Thales' theorem. Lecture notes <a href="lecture_notes/L9_17.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/14/18. 2.3,2.4,2.5,1.3,2.6. Definition of area of polygon in terms of area of a rectangle and behaviour under subdivision. Formulas for area of parallelograms and triangles. Pythagoras' theorem via areas. Thales' theorem. Lecture notes <a href="lecture_notes/L9_14.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/12/18. 2.1,2.2. If lines L and M cross a given line making interior angles a and b on one side, then L and M are parallel iff a+b=pi. Playfair's axiom: Givena line L and a point P not on L, there is a unique line M through P parallel to L. The angle sum of a triangle equals pi. Parallelograms: Opposite sides have equal lengths, and the diagonals bisect each other. Lecture notes <a href="lecture_notes/L9_12.pdf">pdf</a>.
+<br>
+<br>
+Monday 9/10/18. 1.3,2.1. Construction: Bisect a line segment --- the perpendicular bisector. Construction: perpendicular line to a given line passing through a given point. The parallel axiom. Brief overview of hyperbolic geometry (see also Chapter 8). Lecture notes <a href="lecture_notes/L9_10.pdf">pdf</a>.
+<br>
+<br>
+Friday 9/7/18. 2.2,1.3. Congruence of triangles. Congruence criteria (SAS,ASA,SSS). Construction: Bisect an angle. Isosceles triangles (two equal angles <=> two equal side lengths). Lecture notes <a href="lecture_notes/L9_7.pdf">pdf</a>.
+<br>
+<br>
+Wednesday 9/5/18. 1.1,1.2. Euclidean geometry. Ruler and compass constructions. Motivating problems (constructible lengths, construction of regular polygons). Lecture notes <a href="lecture_notes/L9_5.pdf">pdf</a>.
+<br>
+<br>
+</HTML>
+ 

@@ -1,0 +1,87 @@
+<html>
+<body bgcolor=white text=black>
+
+<font size=+2> Math 462: Geometry II</font><br>
+<font size=+2> Spring 2015</font>
+<br>
+<br>
+<b>Instructor</b>: Paul Hacking, LGRT 1235H, <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<br>
+<b>Meetings</b> 
+<br>
+<br>
+Classes: Mondays, Wednesdays, and Fridays, 11:15AM--12:05PM, in LGRT 177.
+<br>
+Office hours: Mondays 4:00--5:00PM and Tuesdays 5:00--6:00PM.
+<br>
+<br>
+<b>Prerequisites</b>: Math 411 and Math 461.
+<br>
+<br>
+<b>Course description</b>
+<p>
+This course is a continuation of Math 461. We will begin by studying the symmetries of the plane and the sphere. Then we will construct the hyperbolic plane and study its geometry. The hyperbolic plane is a curved surface with many amazing properties. For example, the circumference of a circle drawn on the hyperbolic plane grows exponentially as the radius increases.
+</p>
+<p>
+<a href="classlog/index.html">Class log</a>
+</p>
+
+
+<b>Textbook</b>
+<p>
+The course text is <i>The four pillars of geometry</i> by J. Stillwell. <a href="http://link.springer.com/book/10.1007%2F0-387-29052-4">SpringerLink</a>.
+<!--<a href="http://books.google.com/books/about/The_Four_Pillars_of_Geometry.html?id=I1QPQic_PxwC">googlebooks</a>.-->
+</p>
+
+
+<b>Homework</b>
+<p>
+There will be weekly homework, due at the beginning of Wednesday's class (first homework due 2/4/13).
+</p>
+<a href="homework/index.html">Homework sets</a>
+<br>
+<br>
+
+
+<b>Exams</b>
+<p>
+There will be one midterm exam and one final exam.
+</p>
+
+<p>
+The midterm exam is Wednesday 3/11/15, 7:00PM--8:30PM, in LGRT 177.
+There is a review session for the midterm on Tuesday 3/10/15, 7:00PM--8:30PM, in LGRT 177. Please try the review questions <a href="homework/midterm_review.pdf">here</a> before the review session. 
+</p>
+<p>
+Solutions to the midterm exam are <a href="homework/462midtermsolutions.pdf">here</a>. The exam itself is <a href="homework/462midterm.pdf">here</a>.
+</p>
+<p>
+The final exam is Friday 5/1/15, 10:30AM--12:30PM, in LGRT 177. Please try the review questions <a href="homework/final_review.pdf">here</a>. 
+Solutions to the review questions are <a href="homework/final_review_solutions.pdf">here</a>. I will go over the review questions in class on Thursday 4/30/15. 
+There will also be an (optional) review session on Thursday 4/30/15, 7:00PM--9:00PM, in LGRT 173.
+</p>
+<!--There is a review session for the final exam on Monday 5/6/13, 7:00PM--8:30PM, in LGRT 141.
+Please try the review questions <a href="homework/finalreview.pdf">here</a> before the review session.
+</p>
+-->
+<p>
+Calculators, notes, and the textbook are <em>not</em> allowed on exams and quizzes. You should bring your student ID (UCard) to each exam.
+</p>
+
+
+
+<b>Grading</b>
+<p>
+Your course grade will be computed as follows: Homeworks and quizzes 35%, Midterm exam 30%, Final exam 35%.
+</p>
+
+
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>
+
+</body>
+</html>
+
+

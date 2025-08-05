@@ -1,0 +1,236 @@
+<HTML>
+
+
+<h2> Class Log </h2>
+<br>
+<br>
+Friday 4/3/15: Linear fractional transformations of the extended complex plane CU{&infin;} (also known as Mobius transformations). Examples: f(z)=z+b (translation, f(z)=az (rotation and scaling), f(z)=1/z=z&#773/|z|<sup>2</sup>. Inversion g(z)=z/|z|^2 in the circle with center the origin and radius 1. The Mobius transformation f(z)=1/z is induced by rotation of the sphere about the x-axis through angle &pi; via stereographic projection.  
+<br>
+<br>
+Wednesday 4/1/15: If T is the rotation of the sphere defined by a quaternion q=a+bi+cj+dk then, under stereographic projection, T corresponds to the linear fractional transformation of the (extended) complex plane CU{&infin;} given by f(w)=((a+di)w+(-c+bi))/((c+bi)w+(a-di)). 
+<br>
+<br>
+Monday 3/30/15: Examples of computation of composition of rotations in R<sup>3</sup> using quaternions. The group G of rotations fixing the origin in R<sup>3</sup> can be identified with the group of unit quaternions q modulo the equivalence relation given by identifying q and -q, by sending q to the rotation T given by T(x)=qxq&#773.
+<br>
+<br>
+Friday 3/27/15: Quaternions and rotations in R<sup>3</sup>. If q is a unit quaternion (i.e. |q|=1) we can write q=cos(t)+sin(t)v, where v is a unit vector in R<sup>3</sup>. Then the formula T(x)=qxq&#773 defines the isometry of R<sup>3</sup> given by rotation with axis the line through the origin in the direction of v, through angle 2t radians counterclockwise. If T<sub>1</sub> and T<sub>2</sub> are the rotations given by quaternions q<sub>1</sub> and q<sub>2</sub>, then the composite T<sub>2</sub>&#959;T<sub>1</sub> is given by the product q<sub>2</sub>q<sub>1</sub>.
+<br>
+<br>
+Wednesday 3/25/15: Basic properties of the quaternions: Multiplication of quaternions is associative (i.e. (AB)C=A(BC) ) but NOT commutative (AB &ne; BA in general). 
+We define the length of q=a+bi+cj+dk as |q|=&radic;<span style="text-decoration: overline">a<sup>2</sup>+b<sup>2</sup>+c<sup>2</sup>+d<sup>2</sup></span> and the conjugate of q as q&#773;=a-bi-cj-dk. 
+We have qq&#773;=q&#773;q=|q|<sup>2</sup>, 
+<span style="text-decoration: overline"> q<sub>1</sub>.q<sub>2</sub></span> = <span style="text-decoration: overline"> q<sub>2</sub></span>.<span style="text-decoration: overline">q<sub>1</sub></span>, and |q<sub>1</sub>q<sub>2</sub>|=|q<sub>1</sub>||q<sub>2</sub>|.
+<br>
+<br>
+Monday 3/23/15: Rotations in R<sup>2</sup> via multiplication of complex numbers. For complex numbers z,w we have |zw|=|z||w| and arg(zw)=arg(z)+arg(w).
+The formula e<sup>it</sup> = cos t + i sin t. The quaternions. Multiplication law given by i<sup>2</sup>=j<sup>2</sup>=k<sup>2</sup>=-1 and ij=-ji=k, jk=-kj=i, ki=-ik=j (note cyclic symmetry). 
+Relation to dot product and cross product of vectors in R<sup>3</sup>: if we write a quaternion q=a+bi+cj+dk as q=t+v where t=a is a real number and v=bi+cj+dk is a vector in R<sup>3</sup>, then
+q<sub>1</sub>q<sub>2</sub>=(t<sub>1</sub>+v<sub>1</sub>)(t<sub>2</sub>+v<sub>2</sub>)=(t<sub>1</sub>t<sub>2</sub>-v<sub>1</sub>.v<sub>2</sub>)+(t<sub>1</sub>v<sub>2</sub>+t<sub>2</sub>v<sub>1</sub>+v<sub>1</sub> x v<sub>2</sub>).
+<br>
+<br>
+Friday 3/13/15: Stereographic projection and rotations of the sphere. Warmup: 1-dimensional case. Rotation of the circle corresponds to a linear fractional transformation (LFT) f(t)=(at+b)/(ct+d) of the extended line RU{&infin;} under stereographic projection. Review of LFT's (see also Stillwell p.104).
+<br>
+<br>
+Wednesday 3/11/15: Stereographic projection preserves angles. One proof using calculus (233) and another using 3d Euclidean geometry.
+<br>
+<br>
+Monday 3/9/15: Stereographic projection sends circles on the sphere to circles and lines in the plane. (Proof using algebraic formula for F<sup>-1</sup>.)
+<br>
+<br>
+Friday 3/6/15: Algebraic formula for stereographic projection in the 2 dimensional case: F:S<sup>2</sup> \ {N} --> R<sup>2</sup>, F(x,y,z)=(x,y)/(1-z), F<sup>-1</sup>(u,v)=(2u,2v,u<sup>2</sup>+v<sup>2</sup>-1)/(u<sup>2</sup>+v<sup>2</sup>+1).
+<br>
+<br>
+Wednesday 3/4/15: Stereographic projection. Algebraic formula for stereographic projection in the 1 dimensional case: F:S<sup>1</sup> \ {N} --> R, F(x,y)=x/(1-y), F<sup>-1</sup>(t)=(2t,t<sup>2</sup>-1)/(t<sup>2</sup>+1).
+<br>
+<br>
+Monday 3/2/15: Maps of portions of the sphere cannot exactly preserve distances. The Gall--Peters projection: geometric description, algebraic formulas for the projection and its inverse. The Gall--Peters projection preserves areas.
+<br>
+<br>
+Friday 2/27/15: The isometries of the sphere are obtained by restricting isometries of R<sup>3</sup> fixing the origin. Geometric description of the resulting isometries from the viewpoint of the sphere.
+<br>
+<br>
+Wednesday 2/25/15: Examples continued: explicit change of basis calculation. Isometries of the sphere.
+<br>
+<br>
+Monday 2/23/15: Examples computed using method developed on Friday 2/20.
+<br>
+<br>
+Friday 2/20/15: Geometric description of isometries T of R<sup>3</sup> fixing the origin given algebraically using determinant and trace. If T(x)=Ax then det A = +1 if T is a rotation and det A = -1 if T is a reflection or rotary reflection. We have trace(A)=1+2cos(&theta;) for a rotation through angle &theta;, and trace(A)=-1+2cos(&theta;) for a rotary reflection with angle &theta; (note reflection can be regarded as a rotary reflection with angle &theta;=0). This allows us to solve for &theta; (up to a sign). Finally we can determine the direction of the axis of rotation by solving the linear equation Ax=x in the case of a rotation and Ax=-x in the case of a rotary reflection.
+<br>
+<br>
+Wednesday 2/18/15: Classification of isometries of R<sup>2</sup> using the algebraic description (continued).
+<br>
+<br>
+Monday 2/16/15: An isometry T of R<sup>n</sup> is given by T(x)=Ax+b where A is an n x n orthogonal matrix and b is a vector. Classification of isometries of R<sup>2</sup> using the algebraic description.
+<br>
+<br>
+Friday 2/13/15: Classification of orthogonal matrices for n=2 and 3, and geometric interpretation.
+<br>
+<br>
+Wednesday 2/11/15: Isometries of R<sup>n</sup>. An isometry T fixing the origin is given by T(x)=Ax where A is an n x n orthogonal matrix.  
+<br>
+<br>
+Monday 2/9/15: Snow day.
+<br>
+<br>
+Friday 2/6/15: The spherical triangle inequality. Proof that spherical lines (great circles) give shortest paths between points on the sphere. Examples of isometries of R<sup>2</sup>: translation, rotation, reflection, and glide reflection. 
+<br>
+<br>
+Wednesday 2/4/15: Spherical sine rule (continued): sin a / sin &alpha; = sin b / sin &beta; = sin c / sin &gamma; . 
+<br>
+<br>
+Monday 2/2/15: Snow day.
+<br>
+<br>
+Friday 1/30/15: The spherical sine rule. 
+<br>
+<br>
+Wednesday 1/28/15: The spherical cosine rule. Review of cosine rule in R<sup>2</sup>. Review of spherical coordinates from 233. For a spherical triangle ABC on a sphere of radius 1 with angles a,b,c and opposite side lengths &alpha;, &beta;, &gamma; we have cos(&alpha;)=cos(&beta;)cos(&gamma;)+sin(&beta;)sin(&gamma;)cos(a).
+<br>
+<br>
+Monday 1/26/15: The sum of the angles of a spherical triangle ABC on a sphere of radius R=1 is given by a+b+c = pi + area(ABC).
+<br>
+<br>
+Friday 1/23/15: The angle between two spherical lines is equal to the dihedral angle between the corresponding planes or equivalently the angle between their normal vectors. It can be computed using the dot product.
+<br>
+<br>
+Wednesday 1/21/15. The sphere. A spherical line (or great circle) is the intersection of the sphere with a plane passing through its center. The shortest path between two points on the sphere is given by the spherical line through the points (stated without proof). Two spherical lines intersect in a pair of antipodal points. Given two points on the sphere, there is a unique spherical line passing through the points if the points are not antipodal. (If the points are antipodal, there are infinitely many spherical lines passing through the points.) Computation of the spherical distance between two points using the dot product.
+<br>
+<br>
+
+<!--
+<br>
+<br>
+Wednesday 5/1/13. Let L<sub>1</sub> and L<sub>2</sub> be two hyperbolic lines which do meet in H or at its boundary. Let M be the unique hyperbolic line meeting  L<sub>1</sub> and L<sub>2</sub> at right angles described last time. Let f: H -> H be a hyperbolic isometry sending M to the hyperbolic line given by the y-axis. Then f(L<sub>1</sub>) and f(L<sub>2</sub>) are two concentric semicircles with center the origin, and the composition S=U<sub>2</sub>oU<sub>1</sub> of the hyperbolic reflections in f(L<sub>1</sub>) and f(L<sub>2</sub>) equals the scaling S(z)=cz with scaling factor c=(r<sub>2</sub>/r<sub>1</sub>)<sup>2</sup>, where r<sub>i</sub> is the radius of f(L<sub>i</sub>). The composition T=R<sub>2</sub>oR<sub>1</sub> of the hyperbolic reflections in L<sub>1</sub> and L<sub>2</sub> is given by T=f<sup>-1</sup>oSof; it is called a hyperbolic translation. Geometrically, the Euclidean lines through the origin in H (which are preserved by S) correspond under f<sup>-1</sup> to circles through the two intersection points of M with the boundary of H (which are preserved by T). These curves are called hypercycles (note M is the unique hypercycle which is a hyperbolic line). Summary of classification of hyperbolic isometries: Orientation preserving: identity, hyperbolic rotation, horolation, hyperbolic translation; Orientation reversing: hyperbolic reflection, hyperbolic glide reflection (hyperbolic reflection in hyperbolic line M followed by hyperbolic translation preserving M). The orientation preserving isometries can be distinguished as follows: hyperbolic rotation - 1 fixed point in H, 0 in the boundary; horolation - 0 fixed points in H, 1 in the boundary; hyperbolic translation - 0 fixed points in H, 2 in the boundary. 
+<br>
+Surfaces of constant curvature: There is a notion of distance on the torus (surface of the donut) which is locally the same as the plane R<sup>2</sup> (construction from Euclidean square by identifying pairs of opposite edges). There is a notion of distance on the surface of genus 2 (surface of 2-holed donut) which is locally the same as the hyperbolic plane (construction from regular hyperbolic octagon with angles pi/4 by identifying pairs of edges). We say the sphere S<sup>2</sup> has positive curvature (C < 2 pi R), the torus has zero curvature (C=2 pi R), the surface of genus 2 has negative curvature (C> 2 pi R), where C is the circumference of a circle of small radius R drawn on the surface.
+<br>
+<br>
+Monday 4/29/13. Let L<sub>1</sub> and L<sub>2</sub> be two hyperbolic lines meeting in a point P in the boundary R U {&infin;} of the upper half plane H. Then the composition T=R<sub>2</sub>oR<sub>1</sub> of the hyperbolic reflections in L<sub>1</sub> and L<sub>2</sub> is called a horolation. If f is a hyperbolic isometry which sends the intersection point P of  L<sub>1</sub> and L<sub>2</sub> to &infin; then T=f<sup>-1</sup> o S o f where S is a translation parallel to the x-axis. The image of the horizontal lines in H under f<sup>-1</sup> are the circles through P tangent to the x-axis (called horocycles), which meet L<sub>1</sub> and L<sub>2</sub> at right angles, and the horolation preserves the horocycles. Lemma: Let  L<sub>1</sub> and L<sub>2</sub> be hyperbolic lines which do not meet in H or at its boundary. Then there is a unique hyperbolic line M meeting  L<sub>1</sub> and L<sub>2</sub> at right angles. Let L<sub>1</sub> and L<sub>2</sub> be two hyperbolic lines meeting in a point P in the boundary R U {&infin;} of the upper half plane H.
+<br>
+<br>
+Friday 4/26/13. Let L<sub>1</sub> and L<sub>2</sub> be two hyperbolic lines meeting in a point P in H at angle t. Then the composition R<sub>2</sub>oR<sub>1</sub> is a hyperbolic rotation{&infin;} with center the point P through angle 2t. 
+<br>
+<br>
+Wednesday 4/24/13. Discussion of the formula for circumference of a hyperbolic circle (in particular the circumference grows exponentially as the radius increases (!), relation to notion of curvature in differential geometry). The area of a hyperbolic circle of radius R equals 4 pi (sinh(R/2))<sup>2</sup>. Geometric classification of hyperbolic isometries. Review of geometric classification of isometries of R<sup>2</sup>. Recap of examples of hyperbolic isometries (upper half plane model): 
+(1) reflection in a hyperbolic line, (2) hyperbolic rotation about a point, (3) translation f(z)=z+b, b in R, and (4) scaling g(z)=az, a in R, a > 0. 
+<br>
+<br>
+Monday 4/22/13. Hyperbolic lines in the disc model. The circumference of a hyperbolic circle of radius R equals 2 pi sinh(R).
+<br>
+<br>
+Friday 4/19/13. Description of the bijection F:H -> D from the upper half plane to the disc using stereographic projections. The hyperbolic plane is homogeneous and isotropic.
+<br>
+<br>
+Wednesday 4/17/13. Computation of the hyperbolic distance in the Poincare disc model D: The hyperbolic length of a curve in D parametrized by F:[a,b] -> D, F(t)=(u(t),v(t)) is given by the integral of (2 sqrt(u'(t)<sup>2</sup>+v'(t)<sup>2</sup>)/(1-u<sup>2</sup>-v<sup>2</sup>))dt from a to b. In particular, it follows that a rotation R with center the origin defines a hyperbolic isometry of the disc D. Discussion of the corresponding hyperbolic isometry of the upper half plane H.
+<br>
+<br>
+Monday 4/15/13. No class (Patriot's day).
+<br>
+<br>
+Friday 4/12/13. Algebraic proof that reflection in a hyperbolic line L is given by inversion in L if L is a semicircle. Classification of isometries f of the hyperbolic plane H:(1) If f is direct then f(z)=(az+b)/(cz+d) for some a,b,c,d in R with ad-bc>0; (2) If f is opposite then f=gh where h is reflection in the y-axis (h(z)=-z&#773;) and g is an isometry as in (1). Poincare disc model of the hyperbolic plane: The Mobius transformation F(z)=(i-z)/(i+z) defines a bijection from the upper half plane H to the unit disc D (the interior of the circle with center the origin and radius 1), and has inverse G(w)=F<sup>-1</sup>(w)=i(1-w)/(1+w).
+<br>
+<br>
+Wednesday 4/10/13. Proof of Lemma stated last time. Definition of reflection in a hyperbolic line using the Lemma. Reflection in a hyperbolic line L is the ordinary Euclidean reflection in L if L is a vertical line and inversion in L if L is a semicircle.
+<br>
+<br>
+Monday 4/8/13. The area A of a hyperbolic triangle with angles a,b,c is given by A = pi-(a+b+c). Classification of isometries of the hyperbolic plane. Lemma: If L is a hyperbolic line and P is a point then there is a unique hyperbolic line M passing through P such that M is perpendicular to L.
+<br>
+<br>
+Friday 4/5/13. End of proof of theorem stated last time. (Lemma: A Mobius transformation f which preserves the upper half plane H may be expressed as a composition of Mobius transformations of the following 3 types (1) f<sub>1</sub>(z)=z+b, b in R (translation parallel to x-axis), (2) f<sub>2</sub>(z)=az, a in R, a>0 (scaling by factor a), (3) f<sub>3</sub>(z)=-1/z (inversion in the circle center the origin and radius 1 followed by reflection in the y-axis).) Hyperbolic triangles.
+<br>
+<br>
+Wednesday 4/3/13. Theorem: A Mobius transformation f sends the upper half plane H to itself iff f(z)=(az+b)/(cz+d) for a,b,c,d in R and ad-bc>0. Moreover in this case f preserves the hyperbolic distance, i.e., f is an isometry of H. Assuming the theorem, proof of result from last time: the shortest path between two points in H which do not lie on a vertical line is given by the circle through the points with center on the x-axis. Beginning of proof of the theorem.
+<br>
+<br>
+Monday 4/1/13. Hyperbolic geometry. Motivation: the plane and the sphere are both homogeneous and isotropic (i.e. they "look the same" at every point and in every direction); the hyperbolic plane is the only other two dimensional space (with a notion of distance) having both these properties. However, unlike the sphere, the hyperbolic plane cannot be described as a subset of R<sup>3</sup> if we require that the notion of distance is derived from the notion of distance in R<sup>3</sup> (by considering shortest paths contained in the subset). Instead we identify the hyperbolic plane with a subset of the plane together with a different notion of distance: The hyperbolic plane is identified with the upper half plane H in the complex plane C, which is the set of complex numbers z=x+iy with positive imaginary part y. The hyperbolic length of a curve in H parametrized by F:[a,b] -> H, F(t)=(x(t),y(t)) is given by the integral of (sqrt(x'(t)<sup>2</sup>+y'(t)<sup>2</sup>)/y(t))dt from a to b. If two points in H lie on a vertical line then the shortest path for the hyperbolic distance is the segment of the line connecting the points, and has hyperbolic length ln(y<sub>2</sub>/y<sub>1</sub>) where y<sub>1</sub> < y<sub>2</sub> are the y-coordinates of the points. Otherwise there is a unique circle with center on the x-axis passing through the points, and the shortest path is given by the arc of this circle connecting the points (proof next time).  
+<br>
+<br>
+Friday 3/29/13. Every Mobius transformation is a composition of transformations of the following types:(1) f(z)=z+b (translation) (2) f(z)=az (rotation and scaling) (3) f(z)=1/z (inversion in the unit circle followed by reflection in x-axis). Corollary: Mobius transformations preserve angles (and orientation), and send circles and lines to circles and lines. The group of Mobius transformations is 3-transitive: Given distinct points z<sub>1</sub>, z<sub>2</sub>, z<sub>3</sub> in CU{&infin;} and distinct points w<sub>1</sub>, w<sub>2</sub>, w<sub>3</sub> in CU{&infin;}, there is a unique Mobius transformation f such that f(z<sub>i</sub>)=w<sub>i</sub> for each i=1,2,3. Example: The Mobius transformation f(z)=-i(z-1)/(z+1) sends the unit disc to the upper half plane. The cross ratio defined by CR(z<sub>1</sub>,z<sub>2</sub>,z<sub>3</sub>,z<sub>4</sub>)=(z<sub>4</sub>-z<sub>1</sub>)(z<sub>3</sub>-z<sub>2</sub>)/(z<sub>4</sub>-z<sub>2</sub>)(z<sub>3</sub>-z<sub>1</sub>) is preserved by Mobius transformations.
+<br>
+<br>
+Wednesday 3/27/13. Inversion preserves angles. Proof using multivariable calculus and geometric proof. A Mobius transformation f(z)=(az+b)/(cz+d) corresponds to a 2 x 2 complex matrix with rows (a,b),(c,d) (determined up to a scalar factor) such that composition of Mobius transformations corresponds to multiplication of matrices: if f corresponds to the matrix A and g corresponds to the matrix B then the composition gof corresponds to the matrix product BA.
+<br>
+<br>
+Monday 3/25/13. Mobius transformations f(z)=(az+b)/(cz+d) of the extended complex plane CU{&infin;}. Examples: f(z)=z+b is translation by b; f(z)=az for a=r(cos(t) + i sin(t)) is scaling by r followed by rotation about the origin through angle t counterclockwise; f(z)=1/z is inversion in the circle with center the origin and radius 1 followed by reflection in the x-axis. Inversion g(z)=z/|z|^2 in the circle with center the origin and radius 1. Inversion g interchanges the inside and outside of the circle and fixes points on the circle, and the composition gog is the identity transformation. (So inversion is a sort of "reflection" in the circle.) Inversion sends circles and lines to circles and lines.  
+<br>
+<br>
+Friday 3/15/13. Description of the transformations of the extended plane R<sup>2</sup>U{&infin;} corresponding to rotations of the sphere under stereographic projection: Identifying the plane  R<sup>2</sup> with the complex numbers C via (x,y)=x+iy, the rotation of the sphere associated to a quaternion q=a+bi+cj+dk corresponds to the linear fractional transformation f(z)=((a+di)z+(-c+bi))/((c+bi)z+(a-di)) of CU{&infin;}. In particular, the quaternions can be identified with 2x2 complex matrices in a way that respects multiplication (Pauli matrices). 
+<br>
+Warmup - the 1 dimensional case: the rotation of the circle through angle a corresponds to the linear fractional transformation f(t)=(cos(a/2)t+sin(a/2))/(-sin(a/2)t+cos(a/2)) of RU{&infin;} under stereographic projection.
+<br>
+<br>
+Wednesday 3/13/13. Under stereographic projection, a circle on the sphere corresponds to a circle or a line in the plane (with circles through the north pole corresponding to lines). Algebraic proof and geometric proof. Example: The stereographic projection of a great circle on the sphere is a circle or line in the plane which meets the circle with center the origin and radius 1 in two antipodal points.
+<br>
+<br>
+Monday 3/11/13. Stereographic projection preserves angles. The stereographic projection of a circle on the sphere is a circle or line in the plane (Preliminary discussion).
+<br>
+<br>
+Friday 3/8/13. Stereographic projection F of the 2-sphere S<sup>2</sup> onto the plane R<sup>2</sup>. Adjoining a "point at infinity"  to the plane R<sup>2</sup> corresponding to the north pole of S<sup>2</sup>. Derivation of formula for F and F<sup>-1</sup>: F(x,y,z)=(x,y)/(1-z), F<sup>-1</sup>(u,v)=(2u,2v,u<sup>2</sup>+v<sup>2</sup>-1)/(u<sup>2</sup>+v<sup>2</sup>+1). (Warmup: (1 dimensional case) Stereographic projection of circle S<sup>1</sup> onto line R<sup>1</sup>.)
+<br>
+<br>
+Wednesday 3/6/13. Completion of proof from Monday. Two quaternions q<sub>1</sub>, q<sub>2</sub> define the same rotation iff q<sub>2</sub>=q<sub>1</sub> or q<sub>2</sub>=-q<sub>1</sub>. The group G of rotations fixing the  origin in R<sup>2</sup> can be identified with the group of unit complex numbers, which is geometrically the circle S<sup>1</sup> of radius 1 and center the origin in R<sup>2</sup>. The group G of rotations fixing the origin in R<sup>3</sup> can be identified with the group of unit quaternions q modulo the equivalence relation given by identifying q and -q. The group of unit quaternions is geometrically the 3-sphere S<sup>3</sup> of radius 1 and center the origin in R<sup>4</sup>. In particular the circle and the 3-sphere can be given the structure of a group (such that the group operation is continuous). This is impossible for spheres in other dimensions. Explanation for the 2-sphere S<sup>2</sup> in R<sup>3</sup> using the ``hairy ball theorem''.
+<br>
+<br>
+Monday 3/4/13. Examples of computation of composition of rotations in R<sup>3</sup> using quaternions. Proof of the description of the rotation T(x)=qxq&#773 associated to a quaternion q.
+<br>
+<br>
+Friday 3/1/13. Basic properties of the quaternions: Multiplication of quaternions is associative (i.e. (AB)C=A(BC) ) but NOT commutative (AB &ne; BA in general). We define the length of q=a+bi+cj+dk as |q|=&radic;<span style="text-decoration: overline">a<sup>2</sup>+b<sup>2</sup>+c<sup>2</sup>+d<sup>2</sup></span> and the conjugate of q as q&#773;=a-bi-cj-dk. We have qq&#773;=q&#773;q=|q|<sup>2</sup>, 
+<span style="text-decoration: overline"> q<sub>1</sub>.q<sub>2</sub></span> = <span style="text-decoration: overline"> q<sub>2</sub></span>.<span style="text-decoration: overline">q<sub>1</sub></span>, and |q<sub>1</sub>q<sub>2</sub>|=|q<sub>1</sub>||q<sub>2</sub>|. Quaternions and rotations in R<sup>3</sup>. If q is a unit quaternion (i.e. |q|=1) we can write q=cos(t)+sin(t).v, where v is a unit vector in R<sup>3</sup>. Then the formula T(x)=qxq&#773 defines the isometry of R<sup>3</sup> given by rotation with axis the line through the origin in the direction of v, through angle 2t radians counterclockwise. If T<sub>1</sub> and T<sub>2</sub> are the rotations given by quaternions q<sub>1</sub> and q<sub>2</sub>, then the composite T<sub>2</sub>&#959;T<sub>1</sub> is given by the product q<sub>2</sub>q<sub>1</sub>.
+<br>
+<br>
+Wednesday 2/27/13. Rotations in R<sup>2</sup> via multiplication of complex numbers. For complex numbers z,w we have |zw|=|z||w| and arg(zw)=arg(z)+arg(w).
+The formula e<sup>it</sup> = cos t + i sin t. The quaternions. Multiplication law. Relation to dot product and cross product of vectors in R<sup>3</sup>.
+<br>
+<br>
+Monday 2/25/13. Direct and opposite isometries. An isometry T(x)=Ax+b of R<sup>n</sup> is called direct if det(A)=1 and opposite in det(A)=-1. An isometry of R<sup>2</sup> is direct if it preserves the sense (clockwise or counterclockwise) of an angle. An isometry of R<sup>3</sup> is direct if it preserves the notion of right handedness for a triple of vectors. An isometry is direct if it can be obtained by a "continuous process" (made precise mathematically).
+<br>
+<br>
+Friday 2/22/13. Composition of rotations in R<sup>2</sup> and R<sup>3</sup> --- geometric argument giving explicit description of the composition.
+<br>
+<br>
+Wednesday 2/20/13. End of proof of classification of isometries of R<sup>2</sup>. Composition of reflections and rotations in R<sup>2</sup>.
+<br>
+<br>
+Tuesday 2/19/13. Classification of isometries of R<sup>2</sup> using the form T(x)=Ax+b where A is a 2x2 orthogonal matrix and b is a vector in R<sup>2</sup>.
+<br>
+<br>
+Monday 2/18/13. No class (President's day).
+<br>
+<br>
+Friday 2/15/13. Isometries of the sphere. An isometry of the sphere is the restriction of an isometry of R<sup>3</sup> fixing the origin, so given by T(x)=Ax for a 3x3 orthogonal matrix A. Comparison of isometeries of the sphere (identity, reflection in great circle, rotation about two antipodal points, rotary reflection) and isometries of the plane (identity, reflection in line, rotation about a point or translation, glide reflection).
+<br>
+<br>
+Wednesday 2/13/13. Eigenvalues and eigenvectors (continued). The Gall-Peters projection of the sphere to the plane (discussion of HW2Q5).
+<br>
+<br>
+Monday 2/11/13. Review of eigenvalues and eigenvectors. Examples. Determining the geometric type of a 3x3 orthogonal matrix using eigenvalues.
+<br>
+<br>
+Friday 2/8/13. End of proof of Theorem stated on Monday: A is orthogonal iff |Ax|=|x| for all x iff Ax.Ay=x.y for all x,y. Structure theorem for orthogonal matrices: after an orthogonal change of basis the matrix has a block diagonal form, with the blocks being 2x2 rotation matrices and single entries equal to +1 or -1 (stated without proof). Geometric interpretation for n=2 (identity, reflection in a line, rotation about the origin) and n=3 (identity, reflection in a plane, rotation about a line, rotary reflection). 
+<br>
+<br>
+Wednesday 2/6/13. Beginning of proof of Theorem stated on Monday: (1) Isometries preserve lines. (2) Affine linear maps: T is affine linear if T((1-t)x+ty)=(1-t)T(x)+tT(y) for all vectors x,y and real numbers t.  Isometries are affine linear. (3) Affine linear maps are of the form T(x)=Ax+b for a matrix A and a vector b. (4) If S(x)=Ax is linear and preserves distances then it preserves the dot product (proof using polarization identity x.y=1/2(|x+y|^2-|x|^2-|y|^2). 
+<br>
+<br>
+Monday 2/4/13. Isometries of R<sup>n</sup>. Examples: Translations, rotations, reflections. Theorem: A function T: R<sup>n</sup> -> R<sup>n</sup> is an isometry iff T(x)=Ax+b where A is an n x n orthogonal matrix and b is a vector in R<sup>n</sup>. Review of orthogonal matrices and examples for n=2.
+<br>
+<br>
+Friday 2/1/13. Proof of spherical cosine rule. Spherical triangle inequality. Great circles give shortest paths on the sphere (proof using spherical triangle inequality).
+<br>
+<br>
+Wednesday 1/30/13. Review of dot product and cross product. Cosine rule in R<sup>2</sup>. Spherical cosine rule. Spherical coordinates.
+<br>
+<br>
+Monday 1/28/13. Angle sum of a spherical triangle. 
+<br>
+<br>
+Friday 1/25/13. Spherical trigonometry. Angle between two great circles in terms of the associated planes. Angle sum of triangle in R<sup>2</sup> (review of proof).
+<br>
+<br>
+Wednesday 1/23/13. The equation of the sphere. A great circle is the intersection of the sphere with a plane passing through its center. Shortest paths on the sphere are given by great circles (stated without proof). Computing distances between points on the sphere using the dot product.
+<br>
+<br>
+-->
+
+</HTML>

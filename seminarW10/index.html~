@@ -1,0 +1,169 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Algebraic Geometry / Commutative Algebra</title>
+</head>
+
+
+<font size=+2> Algebraic Geometry / Commutative Algebra Seminar</font><br>
+<font size=+2> Spring 2010. Stability conditions on derived categories and wall crossing</font>
+
+<!-- <p align="right"><em> Pins and needles bend and break, my fair lady...</em><br>-->
+
+<p align="left">
+The aim of this seminar is to understand the recent work [KS08] of Kontsevich and Soibelman 
+concerning stability conditions on derived categories of Calabi--Yau 3-folds and wall crossing formulas for counting invariants of stable objects.
+</p>
+<p>
+Here is a rough sketch of the expected structure. Let X be a Calabi--Yau 3-fold and D its derived category. 
+T. Bridgeland constructed the space Stab(D) of stability conditions on D. It is a complex manifold locally modelled on Hom(K(D),C),
+where K(D)=K(X) is the K-theory of X and C denotes the complex numbers. 
+The Euler characteristic defines a bilinear form on K(D) which is skew-symmetric (since X is CY3, using Serre Duality) and nondegenerate.
+This defines a holomorphic symplectic structure on Stab(D).
+There is a Lagrangian submanifold L of Stab(D) which is identified (by classical mirror symmetry) with the moduli space M of complex deformations of the mirror Y of X 
+(together with the choice of a holomorphic volume form). 
+Following Donagi and Markman [DM94] one considers the total space U of the universal family of intermediate Jacobians over M. 
+They show that U admits a hyperkahler structure. In one of the complex structures, the torus fibration U --> M=L admits a construction of the type
+introduced in [KS04], where standard fibrations are glued along real codimension 1 walls via certain symplectomorphisms. 
+In this setting the walls are given by the chamber structure on Stab(D) and the associated automorphisms are determined by counting invariants. 
+</p>
+<p align="left">
+Some effort will be made to make talks accessible to graduate students.
+Everybody is welcome to contribute talks.
+</p>
+<br>
+
+Jan 22. Organizational meeting, 3PM, LGRT 1634.
+<br>
+Jan 29. Alexei Oblomkov, <em>Quivers, curves, and the tropical vertex</em> [GP09]. 2:50PM, LGRT 1634.
+<br>
+Feb 5. Alexei Oblomkov, <em>Poisson automorphisms and quiver moduli</em> [R08]. 2:50PM, LGRT 1634.
+<br>
+Feb 12. Arend Bayer, University of Connecticut, <em>Motivic Hall algebra and Integration map</em> [B09]. 2:50PM, LGRT 1528.
+<a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-2-12&time=14:50:00&loc=LGRT%201528&refer=calendar.html&month=2010-2">Abstract</a>.
+<br>
+Feb 19. No meeting.
+<br>
+Feb 26. Paul Hacking, <em>Stability conditions on derived categories and wall crossing</em> [KS08]. 2:50PM, LGRT 1528.
+<a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-2-26&time=14:50:00&loc=LGRT%201528&refer=calendar.html&month=2010-2">Abstract</a>, <a href="hacking.pdf">Lecture notes</a>.
+<br>
+Mar 5. Eyal Markman, <em>Cubics, integrable systems, and Calabi-Yau threefolds</em> [DM94]. 2:50PM, LGRT 1528.
+<br> 
+Mar 12. Paul Hacking, <em>Examples of stability conditions on derived categories</em>. 2:50PM, LGRT 1528.
+<a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-3-12&time=14:50:00&loc=LGRT%201528&refer=calendar.html&month=2010-3">Abstract</a>, <a href="hacking2.pdf">Lecture notes</a>.
+<br>
+Mar 19. No meeting (Spring Break).
+<br>
+Mar 26. No meeting (Graduate student conference).
+<br>
+Apr 2. Paul Hacking, <em>Wall crossing for stable objects in Calabi-Yau categories</em> [KS08]. 2:50PM, LGRT 1634.
+<a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-4-2&time=14:50:00&loc=LGRT%201634&refer=calendar.html&month=2010-4">Abstract</a>. <a href="hacking3.pdf">Lecture notes</a>.
+<br>
+Apr 9. No meeting (AGNES conference).
+<br>
+Apr 16. Alexei Oblomkov, <em>Donaldson-Thomas / Pandharipande-Thomas correspondence: an example of wall-crossing</em>. <a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-4-16&time=14:50:00&loc=LGRT%201634&refer=calendar.html&month=2010-4">Abstract</a>.
+<br>
+Apr 23. Ivan Mirkovic, <em>Quivers and potentials</em> [KS08]. 2:50PM, LGRT 1634. <a href="http://www.math.umass.edu/Calendar/abstract.html?seminar=Reading%20Seminar%20in%20Algebraic%20Geometry&date=2010-4-23&time=14:50:00&loc=LGRT%201634&refer=calendar.html&month=2010-4">Abstract</a>.
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<font size=+1>References</font>
+<br>
+<br>
+<b>Background material</b>
+<br>
+<br>
+[C05] A. Caldararu, <em>Derived categories of sheaves: a skimming</em>, <a href="http://arxiv.org/abs/math/0501094">arxiv</a>.
+<br>
+<br>
+[DM94] R. Donagi and E. Markman, <em>Cubics, Integrable Systems, and Calabi-Yau Threefolds</em>, <a href="http://arxiv.org/abs/alg-geom/9408004">arxiv</a>.
+<br>
+<br>
+[K94] M. Kontsevich, <em>Homological algebra of mirror symmetry</em>, <a href="http://arxiv.org/abs/alg-geom/9411018">arxiv</a>.
+<br>
+<br>
+[T00] R. Thomas, <em>Derived categories for the working mathematician</em>, <a href="http://arxiv.org/abs/math/0001045">arxiv</a>.
+<br>
+<br>
+<b>Survey papers</b>
+<br>
+<br>
+[B06] T. Bridgeland, <em>Spaces of stability conditions</em>, <a href="http://arxiv.org/abs/math/0611510">arxiv</a>.
+<br>
+<br>
+[GP09] M. Gross and R. Pandharipande, <em>Quivers, curves, and the tropical vertex</em>, <a href="http://arxiv.org/abs/0909.5153">arxiv</a>.
+<br>
+<br>
+[KS09] M. Kontsevich and Y. Soibelman, <em>Motivic Donaldson-Thomas invariants: summary of results</em>, <a href="http://arxiv.org/abs/0910.4315">arxiv</a>.
+<br>
+<br>
+[Z07] A. Zelevinsky, <em>Mutations for quivers with potentials: Oberwolfach talk, April 2007</em>, <a href="http://arxiv.org/abs/0706.0822">arxiv</a>.
+<br>
+<br>
+<b>Research papers</b>
+<br>
+<br>
+[B09] T. Bridgeland, <em>An introduction to motivic Hall algebras</em>, preprint, <a href="http://www.tombridgeland.staff.shef.ac.uk/unpublished.htm">web</a>.
+
+
+<br>
+<br>
+[GPS09] M. Gross, R. Pandharipande, and B. Siebert, <em>The tropical vertex</em>, <a href="http://arxiv.org/abs/0902.0779">arxiv</a>.
+<br>
+<br>
+[KS04] M. Kontsevich and Y. Soibelman, <em>Affine structures and non-archimedean analytic spaces</em>, <a href="http://arxiv.org/abs/math/0406564">arxiv</a>.
+<br>
+<br>
+[KS08] M. Kontsevich and Y. Soibelman, <em>Stability structures, motivic Donaldson-Thomas invariants and cluster transformations</em>, <a href="http://arxiv.org/abs/0811.2435">arxiv</a>.
+<br>
+<br>
+[R08] M. Reineke, <em>Poisson automorphisms and quiver moduli</em>, <a href="http://arxiv.org/abs/0804.3214">arxiv</a>.
+<br>
+<br>
+
+
+<br><hr><br>
+
+Links to the seminar from previous years.<br><br>
+
+<a href="http://www.math.umass.edu/~hacking/seminarF09">Mirror symmetry and tropical geometry, Fall 2009</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/deform.html">Deformation theory,
+Fall 2008</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/green1.html">Green's Conjectures,
+Spring 2008</a><br>
+
+<a href="http://www.math.umass.edu/%7Emehrotra/ag.php">Bridgeland Stability,
+Fall 2007</a><br>
+
+<a href="http://www.math.umass.edu/~tevelev/mmp.html">Minimal Model Program,
+Spring 2007</a><br>
+
+<a href="http://www.math.umass.edu/~isoprou/caps.html">Commutative 
+Algebra and Polyhedra Seminar, Spring 2006</a><br>
+
+<a href="http://www.math.umass.edu/~isoprou/gaps.html">Geometry and
+Algebra of Polyhedra Seminar, Fall 2005</a><br>
+
+<a href="http://www.mtholyoke.edu/~jsidman/commalg.html">Commutative Algebra 
+Seminar, 2004-2005</a><br>
+
+
+
+
+
+<br><hr><br>
+
+The page is maintained by <a href="http://www.math.umass.edu/~hacking"> Paul Hacking </a>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>

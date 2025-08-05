@@ -1,0 +1,19 @@
+<HTML>
+
+
+<h2>Syllabus for Qualifying Exam in Algebra</h2>
+
+
+<h3>I. Group Theory and Representation Theory.</h1>
+
+Group actions. Counting with groups. P-groups and Sylow theorems. Composition series. Jordan-Holder theorem. Solvable groups. Automorphisms. Semi-direct products. Finitely generated Abelian groups. 
+
+<h3>II. Linear Algebra and Commutative Algebra.</h1>
+
+Euclidean domain is a PID. PID is a UFD. Gauss Lemma. Eisenstein's Criterion. Exact sequences. First and second isomorphism theorems for R-modules. Free R-modules. Hom. Tensor product of vector spaces, Abelian groups, and R-modules. Right-exactness of the tensor product. Restriction and extension of scalars. Complexification. Bilinear forms. Symmetric and alternating forms. Symmetric and exterior algebras. Structure Theorem for finitely generated modules of a PID. Rational canonical form. Jordan canonical form. Chain conditions. Noetherian rings. Hilbert's Basis Theorem. Prime and maximal ideals. Field of fractions. Localization of rings and modules. Exactness of localization. Local rings. Nakayama's Lemma. Integral extensions. Noether's Normalization Lemma. Integral closure. Nullstellensatz. Closed affine algebraic sets.
+
+<h3>III. Field Theory and Galois Theory</h1>
+
+Algebraic extensions. Finite extensions. Degree. Minimal polynomial. Adjoining roots of polynomials. Splitting field. Algebraic closure. Separable extensions. Theorem of the primitive element. Galois extensions. Fundamental Theorem of Galois Theory. Finite fields and their Galois groups. Frobenius endomorphism. Cyclotomic polynomial. Cyclotomic fields and their Galois groups. Cyclic extensions. Lagrange resolvents. Solvable extensions. Solving polynomial equations in radicals. Norm and trace. Transcendence degree. 
+
+</HTML>
