@@ -1,0 +1,102 @@
+<html><head>
+<meta name="KEYWORDS" content="hacking">
+<title>Math 300: Fundamental concepts of mathematics</title>
+</head>
+
+
+
+<font size=+2> Math 300: Fundamental concepts of mathematics</font><br>
+<font size=+2> Spring 2012</font>
+
+<!-- <p align="right"><em> Pins and needles bend and break, my fair lady...</em><br>-->
+
+<br>
+<br>
+
+
+<b>Instructor</b>: Paul Hacking, LGRT 1235H, <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a>
+<br>
+<b>TA</b>: Nate Harman, <a href="mailto:nharman@student.umass.edu">nharman@student.umass.edu</a>
+<br>
+<br>
+<b>Meetings</b>
+<br>
+Classes: Mondays, Wednesdays, and Fridays, 12:20PM - 1:10PM, in LGRT 119.
+<br>
+Coseminar: Tuesdays, 4PM-4:50PM/5:05-5:55PM/6:10-7PM in LGRT 1322.
+<br>
+Office hours: Mondays 4-5PM and Tuesdays 3-4PM in LGRT 1235H (Paul Hacking); Thursdays 1:15-2:15PM and Fridays 2:30-3:30PM in LGRT 1117 (Nate Harman).
+<br>
+<br>
+<b>Course text</b>: <em>An introduction to mathematical thinking</em>, by W. Gilbert and S. Vanstone, Prentice Hall 2004. <a href="http://books.google.com/books/about/An_introduction_to_mathematical_thinking.html?id=F8OEAAAACAAJ" >googlebooks</a>. 
+<br>
+<br>
+<b>Prerequisites</b>: Math 132. 
+<br>
+<br>
+<b>Overview of course</b>
+<p>
+The goal is that you learn to read, understand, and construct coherent, logically correct proofs, so that you may more easily make the transition from calculus to the more theoretical junior-senior courses, especially abstract algebra and modern analysis. Starting with explicit axioms and precisely stated definitions, you will systematically develop basic propositions about integers and modular arithmetic, induction and recursion, real numbers, infinite sets, and such other topics as time may allow. You will be provided with the needed background about logic, sets, and functions. For nearly every class you will create written mathematical proofs. You are expected to participate actively in class, including at the co-seminar.
+</p>
+
+<b>Syllabus</b>
+<p>
+We will cover Chapters 1-6 and 8 of the textbook.
+</p>
+<a href="http://www.math.umass.edu/~hacking/300S12/classlog">Class log</a>
+<br>
+<br>
+
+<b>Homework</b>
+<p>
+There will be weekly homework, due at the beginning of Wednesday's class. (First homework due Wednesday 2/1/12.)
+</p>
+<a href="http://www.math.umass.edu/~hacking/300S12/homework">Homework sets</a>
+<br>
+<br>
+
+<b>Exams</b>
+<p>
+There will be two midterm exams and one final exam as follows: Midterm 1 Wednesday 2/29/12, 7-8:30PM, in LGRT 119; Midterm 2 Wednesday 4/11/12, 7-8:30PM, in LGRT 119; Final exam Tuesday 5/8/12, 10:30AM-12:30PM, in LGRC A301.
+</p>
+<p>
+The syllabus for Midterm 1 is Chapters 1, 4, and 2 of the textbook.
+The review questions for Midterm 1 are <a href="http://www.math.umass.edu/~hacking/300S12/homework/mt1review.pdf">here</a>.
+The first midterm exam is <a href="http://www.math.umass.edu/~hacking/300S12/homework/midterm1.pdf">here</a>.
+</p>
+<p>
+Midterm 2 will cover the material up to and including cardinality, with a strong emphasis on the material covered since Midterm 1,
+that is, congruence, equivalence relations, functions, and cardinality (corresponding to Homeworks 5,6,7,8 and the review questions, 
+and roughly corresponding to Chapters 3,5,6 of the textbook). 
+The review questions for Midterm 2 are <a href="http://www.math.umass.edu/~hacking/300S12/homework/mt2review.pdf">here</a>.
+The second midterm exam is <a href="http://www.math.umass.edu/~hacking/300S12/homework/midterm2.pdf">here</a>.
+</p>
+<p>
+The final exam will cover the whole course, corresponding to Chapters 1,2,3,4,5,6, and 8 of the textbook. The review questions for the final exam are <a href="http://www.math.umass.edu/~hacking/300/homework/finalreview.pdf">here</a>. 
+</p>
+<p>
+Calculators, notes, and the textbook are <em>not</em> allowed on exams and quizzes.
+You should bring your student ID (UCard) to each exam.
+</p>
+
+
+
+<b>Grading</b>
+<p>
+Your course grade will be computed as follows: Homeworks and quizzes 30%, Midterm exams 20% each, Final exam 30%.
+</p>
+
+<br><hr><br>
+<i>This page is maintained by Paul Hacking <a href="mailto:hacking@math.umass.edu">hacking@math.umass.edu</a> </i>
+<br>
+<!--<i>Last modified <script type="text/javascript">document.write(document.lastModified)</script></i>-->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4360660-4";
+urchinTracker();
+</script>
+</body>
+</html>
